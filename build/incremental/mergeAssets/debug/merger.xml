@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger>
+
+    <dataSet config="ComAndroidSupportAppcompatV71901.aar" >
+        <source path="/Users/benjaminalderfer/Documents/app/build/exploded-bundles/ComAndroidSupportAppcompatV71901.aar/assets" />
+    </dataSet>
+    <dataSet config="main" >
+        <source path="/Users/benjaminalderfer/Documents/app/src/main/assets" >
+            <file
+                name="CaeciliaLTStd-Bold.otf"
+                path="/Users/benjaminalderfer/Documents/app/src/main/assets/CaeciliaLTStd-Bold.otf" />
+            <file
+                name="CaeciliaLTStd-BoldItalic.otf"
+                path="/Users/benjaminalderfer/Documents/app/src/main/assets/CaeciliaLTStd-BoldItalic.otf" />
+            <file
+                name="CaeciliaLTStd-Heavy.otf"
+                path="/Users/benjaminalderfer/Documents/app/src/main/assets/CaeciliaLTStd-Heavy.otf" />
+            <file
+                name="CaeciliaLTStd-HeavyItalic.otf"
+                path="/Users/benjaminalderfer/Documents/app/src/main/assets/CaeciliaLTStd-HeavyItalic.otf" />
+            <file
+                name="CaeciliaLTStd-Italic.otf"
+                path="/Users/benjaminalderfer/Documents/app/src/main/assets/CaeciliaLTStd-Italic.otf" />
+            <file
+                name="CaeciliaLTStd-Light.otf"
+                path="/Users/benjaminalderfer/Documents/app/src/main/assets/CaeciliaLTStd-Light.otf" />
+            <file
+                name="CaeciliaLTStd-LightItalic.otf"
+                path="/Users/benjaminalderfer/Documents/app/src/main/assets/CaeciliaLTStd-LightItalic.otf" />
+            <file
+                name="CaeciliaLTStd-Roman.otf"
+                path="/Users/benjaminalderfer/Documents/app/src/main/assets/CaeciliaLTStd-Roman.otf" />
+        </source>
+    </dataSet>
+    <dataSet config="debug" >
+        <source path="/Users/benjaminalderfer/Documents/app/src/debug/assets" />
+    </dataSet>
+
+</merger>

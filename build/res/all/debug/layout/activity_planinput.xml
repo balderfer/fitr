@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:weightSum="1">
+
+    <Space
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="0.30" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="Set up your plan!"
+        android:id="@+id/weightPrompt"
+        android:textSize="28dp"
+        android:layout_gravity="center_horizontal" />
+
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:inputType="number"
+        android:ems="10"
+        android:id="@+id/goalWeight"
+        android:layout_gravity="center_horizontal"
+        android:hint="goal weight (lbs)" />
+
+    <CheckBox
+        android:layout_width="214dp"
+        android:layout_height="wrap_content"
+        android:id="@+id/maintainWeight"
+        android:layout_gravity="center_horizontal"
+        android:checked="false"
+        android:hint="maintain current weight" />
+
+    <Space
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="0.03" />
+
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:inputType="number"
+        android:ems="10"
+        android:id="@+id/duration"
+        android:layout_gravity="center_horizontal"
+        android:layout_weight="0"
+        android:hint="plan (weeks)" />
+
+    <Space
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="0.20" />
+
+    <ImageButton
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/imageButton"
+        android:layout_gravity="center_horizontal"
+        android:layout_weight="0"
+        android:src="@drawable/finishbutton"
+        android:background="#ecf0f1"
+        android:onClick="sendMessage3"/>
+</LinearLayout><!-- From: file:/Users/benjaminalderfer/Documents/app/src/main/res/layout/activity_planinput.xml -->

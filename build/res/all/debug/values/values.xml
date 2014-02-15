@@ -1,0 +1,2122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- From: file:/Users/benjaminalderfer/Documents/app/src/main/res/values/strings.xml -->
+    <eat-comment />
+
+    <string-array name="exer_array">
+        <item>Leisurely Swimming</item>
+        <item>Rigorous Swimming</item>
+        <item>Taking out the Trash</item>
+        <item>Light Jog</item>
+        <item>Fast Paced Run</item>
+        <item>Bird Watching</item>
+        <item>Casual Biking</item>
+        <item>Sprint Biking</item>
+        <item>Walking</item>
+    </string-array>
+    <string-array name="food_array">
+        <item>100% Natural Cereal 1 Oz</item>
+        <item>40% Bran Flakes; KelloggS 1 Oz</item>
+        <item>40% Bran Flakes; Post 1 Oz</item>
+        <item>Alfalfa Seeds; Sprouted; Raw 1 Cup</item>
+        <item>All-Bran Cereal 1 Oz</item>
+        <item>Almonds; Slivered 1 Cup</item>
+        <item>Almonds; Whole 1 Oz</item>
+        <item>Angelfood Cake; From Mix 1 Cake</item>
+        <item>Angelfood Cake; From Mix 1 Piece</item>
+        <item>Apple Juice; Canned 1 Cup</item>
+        <item>Apple Pie 1 Pie</item>
+        <item>Apple Pie 1 Piece</item>
+        <item>Apples; Dried; Sulfured 10 Rings</item>
+        <item>Apples; Raw; Peeled; Sliced 1 Cup</item>
+        <item>Apples; Raw; Unpeeled;2 Per Lb1 Apple</item>
+        <item>Apples; Raw; Unpeeled;3 Per Lb1 Apple</item>
+        <item>Applesauce; Canned; Sweetened 1 Cup</item>
+        <item>Applesauce; Canned;Unsweetened1 Cup</item>
+        <item>Apricot Nectar; No Added Vit C1 Cup</item>
+        <item>Apricot; Canned; Heavy Syrup 1 Cup</item>
+        <item>Apricot; Canned; Heavy Syrup 3 Halves</item>
+        <item>Apricots; Canned; Juice Pack 1 Cup</item>
+        <item>Apricots; Canned; Juice Pack 3 Halves</item>
+        <item>Apricots; Dried; Cooked;Unswtn1 Cup</item>
+        <item>Apricots; Dried; Uncooked 1 Cup</item>
+        <item>Apricots; Raw 3 Aprcot</item>
+        <item>Artichokes; Globe; Cooked; Drn1 Artchk</item>
+        <item>Asparagus; Ckd Frm Frz;Dr;Sper4 Spears</item>
+        <item>Asparagus; Ckd Frm Frz;Drn;Cut1 Cup</item>
+        <item>Asparagus; Ckd Frm Raw; Dr;Cut1 Cup</item>
+        <item>Asparagus; Ckd Frm Raw;Dr;Sper4 Spears</item>
+        <item>Asparagus;Canned;Spears;Nosalt4 Spears</item>
+        <item>Asparagus;Canned;Spears;W/Salt4 Spears</item>
+        <item>Avocados; California 1 Avocdo</item>
+        <item>Avocados; Florida 1 Avocdo</item>
+        <item>Bagels; Egg 1 Bagel</item>
+        <item>Bagels; Plain 1 Bagel</item>
+        <item>Baking Pwdr Biscuits;From Mix 1 Biscut</item>
+        <item>Baking Pwdr Biscuits;Homerecpe1 Biscut</item>
+        <item>Baking Pwdr Biscuits;Refrgdogh1 Biscut</item>
+        <item>Bamboo Shoots; Canned; Drained1 Cup</item>
+        <item>Bananas 1 Banana</item>
+        <item>Bananas; Sliced 1 Cup</item>
+        <item>Barley; Pearled;Light; Uncookd1 Cup</item>
+        <item>Bean Sprouts; Mung; Cookd;Dran1 Cup</item>
+        <item>Bean Sprouts; Mung; Raw 1 Cup</item>
+        <item>Bean With Bacon Soup; Canned 1 Cup</item>
+        <item>Beans;Dry;Canned;W/Frankfurter1 Cup</item>
+        <item>Beans;Dry;Canned;W/Pork+Swtsce1 Cup</item>
+        <item>Beans;Dry;Canned;W/Pork+Tomsce1 Cup</item>
+        <item>Beef And Vegetable Stew;Hm Rcp1 Cup</item>
+        <item>Beef Broth; Boulln; Consm;Cnnd1 Cup</item>
+        <item>Beef Gravy; Canned 1 Cup</item>
+        <item>Beef Heart; Braised 3 Oz</item>
+        <item>Beef Liver; Fried 3 Oz</item>
+        <item>Beef Noodle Soup; Canned 1 Cup</item>
+        <item>Beef Potpie; Home Recipe 1 Piece</item>
+        <item>Beef Roast; Eye O Rnd; Lean 2.6 Oz</item>
+        <item>Beef Roast; Eye O Rnd;Lean+Fat3 Oz</item>
+        <item>Beef Roast; Rib; Lean + Fat 3 Oz</item>
+        <item>Beef Roast; Rib; Lean Only 2.2 Oz</item>
+        <item>Beef Steak;Sirloin;Broil;Lean 2.5 Oz</item>
+        <item>Beef Steak;Sirloin;Broil;Ln+Ft3 Oz</item>
+        <item>Beef; Canned; Corned 3 Oz</item>
+        <item>Beef; Ckd;Bttm Round;Lean Only2.8 Oz</item>
+        <item>Beef; Ckd;Bttm Round;Lean+ Fat3 Oz</item>
+        <item>Beef; Ckd;Chuck Blade;Lean+Fat3 Oz</item>
+        <item>Beef; Ckd;Chuck Blade;Leanonly2.2 Oz</item>
+        <item>Beef; Dried; Chipped 2.5 Oz</item>
+        <item>Beer; Light 12 Fl Oz</item>
+        <item>Beer; Regular 12 Fl Oz</item>
+        <item>Beet Greens; Cooked; Drained 1 Cup</item>
+        <item>Beets; Canned; Drained;No Salt1 Cup</item>
+        <item>Beets; Canned; Drained;W/ Salt1 Cup</item>
+        <item>Beets; Cooked; Drained; Diced 1 Cup</item>
+        <item>Beets; Cooked; Drained; Whole 2 Beets</item>
+        <item>Black Beans; Dry; Cooked;Drand1 Cup</item>
+        <item>Blackberries; Raw 1 Cup</item>
+        <item>Blackeye Peas; Immatr;Raw;Cked1 Cup</item>
+        <item>Blackeye Peas;Immtr;Frzn;Cked 1 Cup</item>
+        <item>Black-Eyed Peas; Dry; Cooked 1 Cup</item>
+        <item>Blue Cheese 1 Oz</item>
+        <item>Blueberries; Frozen; Sweetened1 Cup</item>
+        <item>Blueberries; Frozen; Sweetened10 Oz</item>
+        <item>Blueberries; Raw 1 Cup</item>
+        <item>Blueberry Muffins; Home Recipe1 Muffin</item>
+        <item>Blueberry Muffins;From Com Mix1 Muffin</item>
+        <item>Blueberry Pie 1 Pie</item>
+        <item>Blueberry Pie 1 Piece</item>
+        <item>Bologna 2 Slices</item>
+        <item>Boston Brown Bread;W/Whtecrnm 1 Slice</item>
+        <item>Boston Brown Bread;W/Yllwcrnml1 Slice</item>
+        <item>Bouillon; Dehydrtd; Unprepared1 Pkt</item>
+        <item>Bran Muffins; From Commerl Mix1 Muffin</item>
+        <item>Bran Muffins; Home Recipe 1 Muffin</item>
+        <item>Brazil Nuts 1 Oz</item>
+        <item>Bread Stuffing;From Mx;Drytype1 Cup</item>
+        <item>Bread Stuffing;From Mx;Moist 1 Cup</item>
+        <item>Breadcrumbs; Dry; Grated 1 Cup</item>
+        <item>Broccoli; Frzn; Cooked; Draned1 Cup</item>
+        <item>Broccoli; Frzn; Cooked; Draned1 Piece</item>
+        <item>Broccoli; Raw 1 Spear</item>
+        <item>Broccoli; Raw; Cooked; Drained1 Cup</item>
+        <item>Broccoli; Raw; Cooked; Drained1 Spear</item>
+        <item>Brown And Serve Sausage;Brwnd 1 Link</item>
+        <item>Brown Gravy From Dry Mix 1 Cup</item>
+        <item>Brownies W/ Nuts;Frm Home Recp1 Browne</item>
+        <item>Brownies W/ Nuts;Frstng;Cmmrcl1 Browne</item>
+        <item>Brussels Sprouts; Frzn; Cooked1 Cup</item>
+        <item>Brussels Sprouts; Raw; Cooked 1 Cup</item>
+        <item>Buckwheat Flour; Light; Sifted1 Cup</item>
+        <item>Butter; Salted 1 Pat</item>
+        <item>Butter; Salted 1 Tbsp</item>
+        <item>Butter; Salted 1/2 Cup</item>
+        <item>Butter; Unsalted 1 Pat</item>
+        <item>Butter; Unsalted 1 Tbsp</item>
+        <item>Butter; Unsalted 1/2 Cup</item>
+        <item>Buttermilk; Dried 1 Cup</item>
+        <item>Buttermilk; Fluid 1 Cup</item>
+        <item>Cabbage; Chinese; Pak-Choi;Ckd1 Cup</item>
+        <item>Cabbage; Chinese;Pe-Tsai; Raw 1 Cup</item>
+        <item>Cabbage; Common; Cooked; Drned1 Cup</item>
+        <item>Cabbage; Common; Raw 1 Cup</item>
+        <item>Cabbage; Red; Raw 1 Cup</item>
+        <item>Cabbage; Savoy; Raw 1 Cup</item>
+        <item>Cake Or Pastry Flour; Sifted 1 Cup</item>
+        <item>Camembert Cheese 1 Wedge</item>
+        <item>Cantaloup; Raw 1/2 Meln</item>
+        <item>CapN Crunch Cereal 1 Oz</item>
+        <item>Caramels; Plain Or Chocolate 1 Oz</item>
+        <item>Carrot Cake;Cremchese Frst;Rec1 Cake</item>
+        <item>Carrot Cake;Cremchese Frst;Rec1 Piece</item>
+        <item>Carrots; Canned; Drn; W/ Salt 1 Cup</item>
+        <item>Carrots; Canned;Drnd; W/O Salt1 Cup</item>
+        <item>Carrots; Cooked From Frozen 1 Cup</item>
+        <item>Carrots; Cooked From Raw 1 Cup</item>
+        <item>Carrots; Raw; Grated 1 Cup</item>
+        <item>Carrots; Raw; Whole 1 Carrot</item>
+        <item>Cashew Nuts; Dry Roastd;Salted1 Oz</item>
+        <item>Cashew Nuts; Dry Roastd;Unsalt1 Cup</item>
+        <item>Cashew Nuts; Dry Roastd;Unsalt1 Oz</item>
+        <item>Cashew Nuts; Dry Roasted;Saltd1 Cup</item>
+        <item>Cashew Nuts; Oil Roastd;Salted1 Cup</item>
+        <item>Cashew Nuts; Oil Roastd;Salted1 Oz</item>
+        <item>Cashew Nuts; Oil Roastd;Unsalt1 Cup</item>
+        <item>Cashew Nuts; Oil Roastd;Unsalt1 Oz</item>
+        <item>Catsup 1 Cup</item>
+        <item>Catsup 1 Tbsp</item>
+        <item>Cauliflower; Cooked From Frozn1 Cup</item>
+        <item>Cauliflower; Cooked From Raw 1 Cup</item>
+        <item>Cauliflower; Raw 1 Cup</item>
+        <item>Celery Seed 1 Tsp</item>
+        <item>Celery; Pascal Type; Raw;Piece1 Cup</item>
+        <item>Celery; Pascal Type; Raw;Stalk1 Stalk</item>
+        <item>Cheddar Cheese 1 Cu In</item>
+        <item>Cheddar Cheese 1 Oz</item>
+        <item>Chedddar Cheese; Shredded 1 Cup</item>
+        <item>Cheerios Cereal 1 Oz</item>
+        <item>Cheese Crackers; Plain 10 Crack</item>
+        <item>Cheese Crackers; Sandwch;Peant1 Sandwh</item>
+        <item>Cheeseburger; 4Oz Patty 1 Sandwh</item>
+        <item>Cheeseburger; Regular 1 Sandwh</item>
+        <item>Cheesecake 1 Cake</item>
+        <item>Cheesecake 1 Piece</item>
+        <item>Cherries; Sour;Red;Cannd;Water1 Cup</item>
+        <item>Cherries; Sweet; Raw 10 Chery</item>
+        <item>Cherry Pie 1 Pie</item>
+        <item>Cherry Pie 1 Piece</item>
+        <item>Chestnuts; European; Roasted 1 Cup</item>
+        <item>Chicken A La King; Home Recipe1 Cup</item>
+        <item>Chicken And Noodles; Home Recp1 Cup</item>
+        <item>Chicken Chow Mein; Canned 1 Cup</item>
+        <item>Chicken Chow Mein; Home Recipe1 Cup</item>
+        <item>Chicken Frankfurter 1 Frank</item>
+        <item>Chicken Gravy From Dry Mix 1 Cup</item>
+        <item>Chicken Gravy; Canned 1 Cup</item>
+        <item>Chicken Liver; Cooked 1 Liver</item>
+        <item>Chicken Noodle Soup; Canned 1 Cup</item>
+        <item>Chicken Noodle Soup;Dehyd;Prpd1 Pkt</item>
+        <item>Chicken Potpie; Home Recipe 1 Piece</item>
+        <item>Chicken Rice Soup; Canned 1 Cup</item>
+        <item>Chicken Roll; Light 2 Slices</item>
+        <item>Chicken; Canned; Boneless 5 Oz</item>
+        <item>Chicken; Fried; Batter; Breast4.9 Oz</item>
+        <item>Chicken; Fried; Batter;Drmstck2.5 Oz</item>
+        <item>Chicken; Fried; Flour; Breast 3.5 Oz</item>
+        <item>Chicken; Fried; Flour; Drmstck1.7 Oz</item>
+        <item>Chicken; Roasted; Breast 3.0 Oz</item>
+        <item>Chicken; Roasted; Drumstick 1.6 Oz</item>
+        <item>Chicken; Stewed; Light + Dark 1 Cup</item>
+        <item>Chickpeas; Cooked; Drained 1 Cup</item>
+        <item>Chili Con Carne W/ Beans; Cnnd1 Cup</item>
+        <item>Chocolate Chip Cookies;Commrcl4 Cookie</item>
+        <item>Chocolate Chip Cookies;Hme Rcp4 Cookie</item>
+        <item>Chocolate Chip Cookies;Refrig 4 Cookie</item>
+        <item>Chocolate Milk; Lowfat 1% 1 Cup</item>
+        <item>Chocolate Milk; Lowfat 2% 1 Cup</item>
+        <item>Chocolate Milk; Regular 1 Cup</item>
+        <item>Chocolate; Bitter Ot Baking 1 Oz</item>
+        <item>Chop Suey W/ Beef + Pork;Hmrcp1 Cup</item>
+        <item>Cinnamon 1 Tsp</item>
+        <item>Clam Chowder; Manhattan; Cannd1 Cup</item>
+        <item>Clam Chowder; New Eng; W/ Milk1 Cup</item>
+        <item>Clams; Canned; Drained 3 Oz</item>
+        <item>Clams; Raw 3 Oz</item>
+        <item>Club Soda 12 Fl Oz</item>
+        <item>Coca Pwdr W/O Nofat Drymlk;Prd1 Servng</item>
+        <item>Coca Pwdr W/O Nonfat Dry Milk 3/4 Oz</item>
+        <item>Cocoa Pwdr W/ Nofat Drmlk;Prpd1 Servng</item>
+        <item>Cocoa Pwdr With Nonfat Drymilk1 Oz</item>
+        <item>Coconut; Dried; Sweetnd;Shredd1 Cup</item>
+        <item>Coconut; Raw; Piece 1 Piece</item>
+        <item>Coconut; Raw; Shredded 1 Cup</item>
+        <item>Coffee; Brewed 6 Fl Oz</item>
+        <item>Coffee; Instant; Prepared 6 Fl Oz</item>
+        <item>Coffeecake; Crumb; From Mix 1 Cake</item>
+        <item>Coffeecake; Crumb; From Mix 1 Piece</item>
+        <item>Cola; Diet; Aspartame Only 12 Fl Oz</item>
+        <item>Cola; Diet; Asprtame + Sacchrn12 Fl Oz</item>
+        <item>Cola; Diet; Saccharin Only 12 Fl Oz</item>
+        <item>Cola; Regular 12 Fl Oz</item>
+        <item>Collards; Cooked From Frozen 1 Cup</item>
+        <item>Collards; Cooked From Raw 1 Cup</item>
+        <item>Corn Chips 1 Oz</item>
+        <item>Corn Flakes; KelloggS 1 Oz</item>
+        <item>Corn Flakes; Toasties 1 Oz</item>
+        <item>Corn Grits; Cooked; Instant 1 Pkt</item>
+        <item>Corn Grits;Ckd;Reg;Whte;Nosalt1 Cup</item>
+        <item>Corn Grits;Ckd;Reg;Whte;W/Salt1 Cup</item>
+        <item>Corn Grits;Ckd;Reg;Yllw;Nosalt1 Cup</item>
+        <item>Corn Grits;Ckd;Reg;Yllw;W/Salt1 Cup</item>
+        <item>Corn Muffins; From Commerl Mix1 Muffin</item>
+        <item>Corn Muffins; Home Recipe 1 Muffin</item>
+        <item>Corn; Cnnd;Crm Stl;Whit;No Sal1 Cup</item>
+        <item>Corn; Cnnd;Crm Stl;Whit;W/Salt1 Cup</item>
+        <item>Corn; Cnnd;Crm Stl;Yllw;No Sal1 Cup</item>
+        <item>Corn; Cnnd;Crm Stl;Yllw;W/Salt1 Cup</item>
+        <item>Corn; Cooked Frm Frozn; White 1 Cup</item>
+        <item>Corn; Cooked Frm Frozn; White 1 Ear</item>
+        <item>Corn; Cooked Frm Frozn; Yellow1 Cup</item>
+        <item>Corn; Cooked Frm Frozn; Yellow1 Ear</item>
+        <item>Corn; Cooked From Raw; White 1 Ear</item>
+        <item>Corn; Cooked From Raw; Yellow 1 Ear</item>
+        <item>Corn;Cnnd;Whl Krnl;Whte;No Sal1 Cup</item>
+        <item>Corn;Cnnd;Whl Krnl;Whte;W/Salt1 Cup</item>
+        <item>Corn;Cnnd;Whl Krnl;Yllw;No Sal1 Cup</item>
+        <item>Corn;Cnnd;Whl Krnl;Yllw;W/Salt1 Cup</item>
+        <item>Cornmeal;Bolted;Dry Form 1 Cup</item>
+        <item>Cornmeal;Degermed;Enrched;Cook1 Cup</item>
+        <item>Cornmeal;Degermed;Enriched;Dry1 Cup</item>
+        <item>Cornmeal;Whole-Grnd;Unbolt;Dry1 Cup</item>
+        <item>Cottage Cheese;Cremd;Lrge Curd1 Cup</item>
+        <item>Cottage Cheese;Cremd;Smll Curd1 Cup</item>
+        <item>Cottage Cheese;Cremd;W/Fruit 1 Cup</item>
+        <item>Cottage Cheese;Lowfat 2% 1 Cup</item>
+        <item>Cottage Cheese;Uncreamed 1 Cup</item>
+        <item>Cr Of Chicken Soup W/ H20;Cnnd1 Cup</item>
+        <item>Cr Of Chicken Soup W/ Mlk;Cnnd1 Cup</item>
+        <item>Cr Of Mushrom Soup W/ H2O;Cnnd1 Cup</item>
+        <item>Cr Of Mushrom Soup W/ Mlk;Cnnd1 Cup</item>
+        <item>Crabmeat; Canned 1 Cup</item>
+        <item>Cracked-Wheat Bread 1 Loaf</item>
+        <item>Cracked-Wheat Bread 1 Slice</item>
+        <item>Cracked-Wheat Bread; Toasted 1 Slice</item>
+        <item>Cranberry Juice Cocktal W/Vitc1 Cup</item>
+        <item>Cranberry Sauce; Canned;Swtnd 1 Cup</item>
+        <item>Cream Cheese 1 Oz</item>
+        <item>Cream Of Wheat;Ckd;Mix N Eat 1 Pkt</item>
+        <item>Creme Pie 1 Pie</item>
+        <item>Creme Pie 1 Piece</item>
+        <item>Crm Wheat;Ckd; Quick; No Salt 1 Cup</item>
+        <item>Crm Wheat;Ckd;Quick; W/ Salt 1 Cup</item>
+        <item>Crm Wheat;Ckd;Reg;Inst;No Salt1 Cup</item>
+        <item>Crm Wheat;Ckd;Reg;Inst;W/Salt 1 Cup</item>
+        <item>Croissants 1 Crosst</item>
+        <item>Cucumber; W/ Peel 6 Slices</item>
+        <item>Custard Pie 1 Pie</item>
+        <item>Custard Pie 1 Piece</item>
+        <item>Custard; Baked 1 Cup</item>
+        <item>Dandelion Greens; Cooked; Drnd1 Cup</item>
+        <item>Danish Pastry; Fruit 1 Pastry</item>
+        <item>Danish Pastry; Plain; No Nuts 1 Oz</item>
+        <item>Danish Pastry; Plain; No Nuts 1 Pastry</item>
+        <item>Danish Pastry; Plain; No Nuts 1 Ring</item>
+        <item>Dates 10 Dates</item>
+        <item>Dates; Chopped 1 Cup</item>
+        <item>DevilS Food Cake;Chocfrst;Fmx1 Cake</item>
+        <item>DevilS Food Cake;Chocfrst;Fmx1 Cupcak</item>
+        <item>DevilS Food Cake;Chocfrst;Fmx1 Piece</item>
+        <item>Doughnuts; Cake Type; Plain 1 Donut</item>
+        <item>Doughnuts; Yeast-Leavend;Glzed1 Donut</item>
+        <item>Duck; Roasted; Flesh Only 1/2 Duck</item>
+        <item>Eggnog 1 Cup</item>
+        <item>Eggplant; Cooked; Steamed 1 Cup</item>
+        <item>Eggs; Cooked; Fried 1 Egg</item>
+        <item>Eggs; Cooked; Hard-Cooked 1 Egg</item>
+        <item>Eggs; Cooked; Poached 1 Egg</item>
+        <item>Eggs; Cooked; Scrambled/Omelet1 Egg</item>
+        <item>Eggs; Raw; White 1 White</item>
+        <item>Eggs; Raw; Whole 1 Egg</item>
+        <item>Eggs; Raw; Yolk 1 Yolk</item>
+        <item>Enchilada 1 Enchld</item>
+        <item>Eng Muffin; Egg; Cheese; Bacon1 Sandwh</item>
+        <item>English Muffins; Plain 1 Muffin</item>
+        <item>English Muffins; Plain; Toastd1 Muffin</item>
+        <item>Evaporated Milk; Skim; Canned 1 Cup</item>
+        <item>Evaporated Milk; Whole; Canned1 Cup</item>
+        <item>Feta Cheese 1 Oz</item>
+        <item>Fig Bars 4 Cookie</item>
+        <item>Figs; Dried 10 Figs</item>
+        <item>Filberts; (Hazelnuts) Chopped 1 Cup</item>
+        <item>Filberts; (Hazelnuts) Chopped 1 Oz</item>
+        <item>Fish Sandwich; Lge; W/O Cheese1 Sandwh</item>
+        <item>Fish Sandwich; Reg; W/ Cheese 1 Sandwh</item>
+        <item>Fish Sticks; Frozen; Reheated 1 Stick</item>
+        <item>Flounder Or Sole; Baked; Buttr3 Oz</item>
+        <item>Flounder Or Sole; Baked;Margrn3 Oz</item>
+        <item>Flounder Or Sole; Baked;W/Ofat3 Oz</item>
+        <item>French Bread 1 Slice</item>
+        <item>French Or Vienna Bread 1 Loaf</item>
+        <item>French Toast; Home Recipe 1 Slice</item>
+        <item>Fried Pie; Apple 1 Pie</item>
+        <item>Fried Pie; Cherry 1 Pie</item>
+        <item>Froot Loops Cereal 1 Oz</item>
+        <item>Fruit Cocktail;Cnnd;Heavysyrup1 Cup</item>
+        <item>Fruit Cocktail;Cnnd;Juice Pack1 Cup</item>
+        <item>Fruit Punch Drink; Canned 6 Fl Oz</item>
+        <item>Fruitcake;Dark; From Homerecip1 Cake</item>
+        <item>Fruitcake;Dark; From Homerecip1 Piece</item>
+        <item>Fudge; Chocolate; Plain 1 Oz</item>
+        <item>Gelatin Dessert; Prepared 1/2 Cup</item>
+        <item>Gelatin; Dry 1 Envelp</item>
+        <item>Gin;Rum;Vodka;Whisky 80-Proof 1.5 F Oz</item>
+        <item>Gin;Rum;Vodka;Whisky 86-Proof 1.5 F Oz</item>
+        <item>Gin;Rum;Vodka;Whisky 90-Proof 1.5 F Oz</item>
+        <item>Ginger Ale 12 Fl Oz</item>
+        <item>Gingerbread Cake; From Mix 1 Cake</item>
+        <item>Gingerbread Cake; From Mix 1 Piece</item>
+        <item>Golden Grahams Cereal 1 Oz</item>
+        <item>Graham Cracker; Plain 2 Crackr</item>
+        <item>Grape Drink; Canned 6 Fl Oz</item>
+        <item>Grape Juice; Canned 1 Cup</item>
+        <item>Grape Soda 12 Fl Oz</item>
+        <item>Grapefrt Jce;Frzn;Cncn;Unswten6 Fl Oz</item>
+        <item>Grapefrt Jce;Frzn;Dltd;Unswten1 Cup</item>
+        <item>Grapefruit Juice; Canned;Swtnd1 Cup</item>
+        <item>Grapefruit Juice; Canned;Unswt1 Cup</item>
+        <item>Grapefruit Juice; Raw 1 Cup</item>
+        <item>Grapefruit; Canned; Syrup Pack1 Cup</item>
+        <item>Grapefruit; Raw; Pink 1/2 Frut</item>
+        <item>Grapefruit; Raw; White 1/2 Frut</item>
+        <item>Grapejce;Frzn;Concen;Swtnd;W/C6 Fl Oz</item>
+        <item>Grapejce;Frzn;Dilutd;Swtnd;W/C1 Cup</item>
+        <item>Grape-Nuts Cereal 1 Oz</item>
+        <item>Grapes; European; Raw; Thompsn10 Grape</item>
+        <item>Grapes; European; Raw; Tokay 10 Grape</item>
+        <item>Gravy And Turkey; Frozen 5 Oz</item>
+        <item>Great Northn Beans;Dry;Ckd;Drn1 Cup</item>
+        <item>Ground Beef; Broiled; Lean 3 Oz</item>
+        <item>Ground Beef; Broiled; Regular 3 Oz</item>
+        <item>Gum Drops 1 Oz</item>
+        <item>Haddock; Breaded; Fried 3 Oz</item>
+        <item>Half And Half; Cream 1 Cup</item>
+        <item>Half And Half; Cream 1 Tbsp</item>
+        <item>Halibut; Broiled; Butter;Lemju3 Oz</item>
+        <item>Hamburger; 4Oz Patty 1 Sandwh</item>
+        <item>Hamburger; Regular 1 Sandwh</item>
+        <item>Hard Candy 1 Oz</item>
+        <item>Herring; Pickled 3 Oz</item>
+        <item>Hollandaise Sce; W/ H2O;Frm Mx1 Cup</item>
+        <item>Honey 1 Cup</item>
+        <item>Honey 1 Tbsp</item>
+        <item>Honey Nut Cheerios Cereal 1 Oz</item>
+        <item>Honeydew Melon; Raw 1/10 Mel</item>
+        <item>Ice Cream; Vanlla; Regulr 11% 1 Cup</item>
+        <item>Ice Cream; Vanlla; Regulr 11% 1/2 Galn</item>
+        <item>Ice Cream; Vanlla; Regulr 11% 3 Fl Oz</item>
+        <item>Ice Cream; Vanlla; Rich 16% Ft1 Cup</item>
+        <item>Ice Cream; Vanlla; Rich 16% Ft1/2 Gal</item>
+        <item>Ice Cream; Vanlla; Soft Serve 1 Cup</item>
+        <item>Ice Milk; Vanilla; 4% Fat 1 Cup</item>
+        <item>Ice Milk; Vanilla; 4% Fat 1/2 Gal</item>
+        <item>Ice Milk; Vanilla;Softserv 3% 1 Cup</item>
+        <item>Imitation Creamers; Liquid Frz1 Tbsp</item>
+        <item>Imitation Creamers; Powdered 1 Tsp</item>
+        <item>Imitation Whipped Topping;Frzn1 Cup</item>
+        <item>Imitation Whipped Topping;Frzn1 Tbsp</item>
+        <item>Imitatn Sour Dressing 1 Cup</item>
+        <item>Imitatn Sour Dressing 1 Tbsp</item>
+        <item>Imitatn Whipd Toping;Pressrzd 1 Cup</item>
+        <item>Imitatn Whipd Toping;Pressrzd 1 Tbsp</item>
+        <item>Imitatn Whipd Toping;Pwdrd;Prp1 Cup</item>
+        <item>Imitatn Whipd Toping;Pwdrd;Prp1 Tbsp</item>
+        <item>Italian Bread 1 Loaf</item>
+        <item>Italian Bread 1 Slice</item>
+        <item>Jams And Preserves 1 Pkt</item>
+        <item>Jams And Preserves 1 Tbsp</item>
+        <item>Jellies 1 Pkt</item>
+        <item>Jellies 1 Tbsp</item>
+        <item>Jelly Beans 1 Oz</item>
+        <item>Jerusalem-Artichoke; Raw 1 Cup</item>
+        <item>Kale; Cooked From Frozen 1 Cup</item>
+        <item>Kale; Cooked From Raw 1 Cup</item>
+        <item>Kiwifruit; Raw 1 Kiwi</item>
+        <item>Kohlrabi; Cooked; Drained 1 Cup</item>
+        <item>Lamb; Rib; Roasted; Lean + Fat3 Oz</item>
+        <item>Lamb; Rib; Roasted; Lean Only 2 Oz</item>
+        <item>Lamb;Chops;Arm;Braised;Lean 1.7 Oz</item>
+        <item>Lamb;Chops;Arm;Braised;Lean+Ft2.2 Oz</item>
+        <item>Lamb;Chops;Loin;Broil;Lean 2.3 Oz</item>
+        <item>Lamb;Chops;Loin;Broil;Lean+Fat2.8 Oz</item>
+        <item>Lamb;Leg;Roasted; Lean Only 2.6 Oz</item>
+        <item>Lamb;Leg;Roasted; Lean+ Fat 3 Oz</item>
+        <item>Lemon Juice; Canned 1 Cup</item>
+        <item>Lemon Juice; Canned 1 Tbsp</item>
+        <item>Lemon Juice; Raw 1 Cup</item>
+        <item>Lemon Juice;Frzn;Single-Strngh6 Fl Oz</item>
+        <item>Lemon Meringue Pie 1 Pie</item>
+        <item>Lemon Meringue Pie 1 Piece</item>
+        <item>Lemonade;Concen;Frzen;Diluted 6 Fl Oz</item>
+        <item>Lemonade;Concentrate;Frz;Undil6 Fl Oz</item>
+        <item>Lemon-Lime Soda 12 Fl Oz</item>
+        <item>Lemons; Raw 1 Lemon</item>
+        <item>Lentils; Dry; Cooked 1 Cup</item>
+        <item>Lettuce; Butterhead; Raw;Head 1 Head</item>
+        <item>Lettuce; Butterhead; Raw;Leave1 Leaf</item>
+        <item>Lettuce; Crisphead; Raw; Head 1 Head</item>
+        <item>Lettuce; Crisphead; Raw;Pieces1 Cup</item>
+        <item>Lettuce; Crisphead; Raw;Wedge 1 Wedge</item>
+        <item>Lettuce; Looseleaf 1 Cup</item>
+        <item>Light; Coffee Or Table Cream 1 Cup</item>
+        <item>Light; Coffee Or Table Cream 1 Tbsp</item>
+        <item>Lima Beans; Dry; Cooked;Draned1 Cup</item>
+        <item>Lima Beans;Baby; Frzn;Cked;Drn1 Cup</item>
+        <item>Lima Beans;Thick Seed;Frzn;Ckd1 Cup</item>
+        <item>Lime Juice; Raw 1 Cup</item>
+        <item>Lime Juice;Canned 1 Cup</item>
+        <item>Limeade;Concen;Frozen;Diluted 6 Fl Oz</item>
+        <item>Limeade;Concentrate;Frzn;Undil6 Fl Oz</item>
+        <item>Lucky Charms Cereal 1 Oz</item>
+        <item>Macadamia Nuts; Oilrstd;Salted1 Cup</item>
+        <item>Macadamia Nuts; Oilrstd;Salted1 Oz</item>
+        <item>Macadamia Nuts; Oilrstd;Unsalt1 Cup</item>
+        <item>Macadamia Nuts; Oilrstd;Unsalt1 Oz</item>
+        <item>Macaroni And Cheese; Canned 1 Cup</item>
+        <item>Macaroni And Cheese; Home Rcpe1 Cup</item>
+        <item>Macaroni; Cooked; Firm 1 Cup</item>
+        <item>Macaroni; Cooked; Tender; Hot 1 Cup</item>
+        <item>Macaroni; Cooked; Tender;Cold 1 Cup</item>
+        <item>Malted Milk; Chocolate; Powder3/4 Oz</item>
+        <item>Malted Milk;Chocolate; Pwdrppd1 Servng</item>
+        <item>Malted Milk;Natural; Powder 3/4 Oz</item>
+        <item>Malted Milk;Natural; Pwdr Pprd1 Servng</item>
+        <item>Mangos; Raw 1 Mango</item>
+        <item>Margarine; Imitation 40% Fat 1 Tbsp</item>
+        <item>Margarine; Imitation 40% Fat 8 Oz</item>
+        <item>Margarine; Regulr;Hard;80% Fat1 Pat</item>
+        <item>Margarine; Regulr;Hard;80% Fat1 Tbsp</item>
+        <item>Margarine; Regulr;Hard;80% Fat1/2 Cup</item>
+        <item>Margarine; Regulr;Soft;80% Fat1 Tbsp</item>
+        <item>Margarine; Regulr;Soft;80% Fat8 Oz</item>
+        <item>Margarine; Spread;Hard;60% Fat1 Pat</item>
+        <item>Margarine; Spread;Hard;60% Fat1 Tbsp</item>
+        <item>Margarine; Spread;Hard;60% Fat1/2 Cup</item>
+        <item>Margarine; Spread;Soft;60% Fat1 Tbsp</item>
+        <item>Margarine; Spread;Soft;60% Fat8 Oz</item>
+        <item>Marshmallows 1 Oz</item>
+        <item>Mayonnaise Type Salad Dressing1 Tbsp</item>
+        <item>Mayonnaise; Imitation 1 Tbsp</item>
+        <item>Mayonnaise; Regular 1 Tbsp</item>
+        <item>Melba Toast; Plain 1 Piece</item>
+        <item>Milk Chocolate Candy; Plain 1 Oz</item>
+        <item>Milk Chocolate Candy;W/ Almond1 Oz</item>
+        <item>Milk Chocolate Candy;W/ Penuts1 Oz</item>
+        <item>Milk Chocolate Candy;W/ Rice C1 Oz</item>
+        <item>Milk; Lofat; 1%; Added Solids 1 Cup</item>
+        <item>Milk; Lofat; 1%; No Addedsolid1 Cup</item>
+        <item>Milk; Lofat; 2%; Added Solids 1 Cup</item>
+        <item>Milk; Lofat; 2%; No Addedsolid1 Cup</item>
+        <item>Milk; Skim; Added Milk Solids 1 Cup</item>
+        <item>Milk; Skim; No Added Milksolid1 Cup</item>
+        <item>Milk; Whole; 3.3% Fat 1 Cup</item>
+        <item>Minestrone Soup; Canned 1 Cup</item>
+        <item>Mixed Grain Bread 1 Loaf</item>
+        <item>Mixed Grain Bread 1 Slice</item>
+        <item>Mixed Grain Bread; Toasted 1 Slice</item>
+        <item>Mixed Nuts W/ Peants;Dry;Saltd1 Oz</item>
+        <item>Mixed Nuts W/ Peants;Dry;Unslt1 Oz</item>
+        <item>Mixed Nuts W/ Peants;Oil;Saltd1 Oz</item>
+        <item>Mixed Nuts W/ Peants;Oil;Unslt1 Oz</item>
+        <item>Molasses; Cane; Blackstrap 2 Tbsp</item>
+        <item>Mozzarella Cheese; Whole Milk 1 Oz</item>
+        <item>Mozzarella Chese;Skim; Lomoist1 Oz</item>
+        <item>Muenster Cheese 1 Oz</item>
+        <item>Mushroom Gravy; Canned 1 Cup</item>
+        <item>Mushrooms; Canned; Drnd;W/Salt1 Cup</item>
+        <item>Mushrooms; Cooked; Drained 1 Cup</item>
+        <item>Mushrooms; Raw 1 Cup</item>
+        <item>Mustard Greens; Cooked; Draned1 Cup</item>
+        <item>Mustard; Prepared; Yellow 1 Tsp</item>
+        <item>Nature Valley Granola Cereal 1 Oz</item>
+        <item>Nectarines; Raw 1 Nectrn</item>
+        <item>Nonfat Dry Milk; Instantized 1 Cup</item>
+        <item>Nonfat Dry Milk; Instantized 1 Envlpe</item>
+        <item>Noodles; Chow Mein; Canned 1 Cup</item>
+        <item>Noodles; Egg; Cooked 1 Cup</item>
+        <item>Oatmeal Bread 1 Loaf</item>
+        <item>Oatmeal Bread 1 Slice</item>
+        <item>Oatmeal Bread; Toasted 1 Slice</item>
+        <item>Oatmeal W/ Raisins Cookies 4 Cookie</item>
+        <item>Oatmeal;Ckd;Instnt;Flvrd;Fortf1 Pkt</item>
+        <item>Oatmeal;Ckd;Instnt;Plain;Fortf1 Pkt</item>
+        <item>Oatmeal;Ckd;Rg;Qck;Inst;W/Osal1 Cup</item>
+        <item>Oatmeal;Ckd;Rg;Qck;Inst;W/Salt1 Cup</item>
+        <item>Ocean Perch; Breaded; Fried 1 Fillet</item>
+        <item>Okra Pods; Cooked 8 Pods</item>
+        <item>Olive Oil 1 Cup</item>
+        <item>Olive Oil 1 Tbsp</item>
+        <item>Olives; Canned; Green 4 Medium</item>
+        <item>Olives; Canned; Ripe; Mission 3 Small</item>
+        <item>Onion Powder 1 Tsp</item>
+        <item>Onion Rings; Breaded;Frzn;Prpd2 Rings</item>
+        <item>Onion Soup; Dehydratd; Prepred1 Pkt</item>
+        <item>Onion Soup; Dehydrtd; Unprpred1 Pkt</item>
+        <item>Onions; Raw; Chopped 1 Cup</item>
+        <item>Onions; Raw; Cooked; Drained 1 Cup</item>
+        <item>Onions; Raw; Sliced 1 Cup</item>
+        <item>Onions; Spring; Raw 6 Onion</item>
+        <item>Orange + Grapefruit Juce;Cannd1 Cup</item>
+        <item>Orange Juice; Canned 1 Cup</item>
+        <item>Orange Juice; Chilled 1 Cup</item>
+        <item>Orange Juice; Raw 1 Cup</item>
+        <item>Orange Juice;Frozen Concentrte6 Fl Oz</item>
+        <item>Orange Juice;Frzn;Cncn;Diluted1 Cup</item>
+        <item>Orange Soda 12 Fl Oz</item>
+        <item>Oranges; Raw 1 Orange</item>
+        <item>Oranges; Raw; Sections 1 Cup</item>
+        <item>Oysters; Breaded; Fried 1 Oyster</item>
+        <item>Oysters; Raw 1 Cup</item>
+        <item>Pancakes; Buckwheat; From Mix 1 Pancak</item>
+        <item>Pancakes; Plain; From Mix 1 Pancak</item>
+        <item>Pancakes; Plain; Home Recipe 1 Pancak</item>
+        <item>Papayas; Raw 1 Cup</item>
+        <item>Parmesan Cheese; Grated 1 Cup</item>
+        <item>Parmesan Cheese; Grated 1 Oz</item>
+        <item>Parmesan Cheese; Grated 1 Tbsp</item>
+        <item>Parsley; Freeze-Dried 1 Tbsp</item>
+        <item>Parsley; Raw 10 Sprig</item>
+        <item>Parsnips; Cooked; Drained 1 Cup</item>
+        <item>Pasterzd Proces Cheese; Swiss 1 Oz</item>
+        <item>Pasterzd Proces Cheese;Americn1 Oz</item>
+        <item>Pasterzd Proces Chese Food;Amr1 Oz</item>
+        <item>Pasterzd Proces Chese Spred;Am1 Oz</item>
+        <item>Pea Beans; Dry; Cooked;Drained1 Cup</item>
+        <item>Pea; Green; Soup; Canned 1 Cup</item>
+        <item>Peach Pie 1 Pie</item>
+        <item>Peach Pie 1 Piece</item>
+        <item>Peaches; Canned; Heavy Syrup 1 Cup</item>
+        <item>Peaches; Canned; Heavy Syrup 1 Half</item>
+        <item>Peaches; Canned; Juice Pack 1 Cup</item>
+        <item>Peaches; Canned; Juice Pack 1 Half</item>
+        <item>Peaches; Dried 1 Cup</item>
+        <item>Peaches; Dried;Cooked;Unswetnd1 Cup</item>
+        <item>Peaches; Frozen;Swetned;W/Vitc1 Cup</item>
+        <item>Peaches; Frozen;Swetned;W/Vitc10 Oz</item>
+        <item>Peaches; Raw 1 Peach</item>
+        <item>Peaches; Raw; Sliced 1 Cup</item>
+        <item>Peanut Butter 1 Tbsp</item>
+        <item>Peanut Butter Cookie;Home Recp4 Cookie</item>
+        <item>Peanuts; Oil Roasted; Salted 1 Cup</item>
+        <item>Peanuts; Oil Roasted; Salted 1 Oz</item>
+        <item>Peanuts; Oil Roasted; Unsalted1 Cup</item>
+        <item>Peanuts; Oil Roasted; Unsalted1 Oz</item>
+        <item>Pears; Canned; Heavy Syrup 1 Cup</item>
+        <item>Pears; Canned; Heavy Syrup 1 Half</item>
+        <item>Pears; Canned; Juice Pack 1 Cup</item>
+        <item>Pears; Canned; Juice Pack 1 Half</item>
+        <item>Pears; Raw; Bartlett 1 Pear</item>
+        <item>Pears; Raw; Bosc 1 Pear</item>
+        <item>Pears; Raw; DAnjou 1 Pear</item>
+        <item>Peas; Edible Pod; Cooked;Drned1 Cup</item>
+        <item>Peas; Green;Cnnd;Drnd; W/ Salt1 Cup</item>
+        <item>Peas; Green;Cnnd;Drnd;W/O Salt1 Cup</item>
+        <item>Peas; Split; Dry; Cooked 1 Cup</item>
+        <item>Peas;Grn; Frozen Cooked;Draned1 Cup</item>
+        <item>Pecan Pie 1 Pie</item>
+        <item>Pecan Pie 1 Piece</item>
+        <item>Pecans; Halves 1 Cup</item>
+        <item>Pecans; Halves 1 Oz</item>
+        <item>Peppers; Hot Chili; Raw; Green1 Pepper</item>
+        <item>Peppers; Hot Chili; Raw; Red 1 Pepper</item>
+        <item>Peppers; Sweet; Cooked; Green 1 Pepper</item>
+        <item>Peppers; Sweet; Cooked; Red 1 Pepper</item>
+        <item>Peppers; Sweet; Raw; Green 1 Pepper</item>
+        <item>Peppers; Sweet; Raw; Red 1 Pepper</item>
+        <item>Pepper-Type Soda 12 Fl Oz</item>
+        <item>Pickles; Cucumber; Dill 1 Pickle</item>
+        <item>Pickles; Cucumber; Fresh Pack 2 Slices</item>
+        <item>Pickles; Cucumber; Swt Gherkin1 Pickle</item>
+        <item>Piecrust; From Mix 2 Crust</item>
+        <item>Piecrust;From Home Recipe 1 Shell</item>
+        <item>Pine Nuts 1 Oz</item>
+        <item>Pineapple Juice; Canned;Unswtn1 Cup</item>
+        <item>Pineapple; Canned; Heavy Syrup1 Cup</item>
+        <item>Pineapple; Canned; Heavy Syrup1 Slice</item>
+        <item>Pineapple; Canned; Juice Pack 1 Cup</item>
+        <item>Pineapple; Canned; Juice Pack 1 Slice</item>
+        <item>Pineapple; Raw; Diced 1 Cup</item>
+        <item>Pineapple-Grapefruit Juicedrnk6 Fl Oz</item>
+        <item>Pinto Beans;Dry;Cooked;Drained1 Cup</item>
+        <item>Pistachio Nuts 1 Oz</item>
+        <item>Pita Bread 1 Pita</item>
+        <item>Pizza; Cheese 1 Slice</item>
+        <item>Plantains; Cooked 1 Cup</item>
+        <item>Plantains; Raw 1 Plantn</item>
+        <item>Plums; Canned; Heavy Syrup 1 Cup</item>
+        <item>Plums; Canned; Heavy Syrup 3 Plums</item>
+        <item>Plums; Canned; Juice Pack 1 Cup</item>
+        <item>Plums; Canned; Juice Pack 3 Plums</item>
+        <item>Plums; Raw; 1-1/2-In Diam 1 Plum</item>
+        <item>Plums; Raw; 2-1/8-In Diam 1 Plum</item>
+        <item>Popcorn; Air-Popped; Unsalted 1 Cup</item>
+        <item>Popcorn; Popped; Veg Oil;Saltd1 Cup</item>
+        <item>Popcorn; Sugar Syrup Coated 1 Cup</item>
+        <item>Popsicle 1 Popcle</item>
+        <item>Pork Chop; Loin; Broil; Lean 2.5 Oz</item>
+        <item>Pork Chop; Loin; Broil; Len+Ft3.1 Oz</item>
+        <item>Pork Chop; Loin;Panfry; Lean 2.4 Oz</item>
+        <item>Pork Chop; Loin;Panfry;Lean+Ft3.1 Oz</item>
+        <item>Pork Fresh Ham; Roastd; Lean 2.5 Oz</item>
+        <item>Pork Fresh Ham; Roastd;Lean+Ft3 Oz</item>
+        <item>Pork Fresh Rib; Roastd; Lean 2.5 Oz</item>
+        <item>Pork Fresh Rib; Roastd;Lean+Ft3 Oz</item>
+        <item>Pork Shoulder; Braisd; Lean 2.4 Oz</item>
+        <item>Pork Shoulder; Braisd;Lean+Fat3 Oz</item>
+        <item>Pork; Cured; Bacon; Regul;Cked3 Slice</item>
+        <item>Pork; Cured; Bacon;Canadn;Cked2 Slice</item>
+        <item>Pork; Cured; Ham; Canned;Roast3 Oz</item>
+        <item>Pork; Cured; Ham; Rosted;Lean 2.4 Oz</item>
+        <item>Pork; Cured; Ham; Rosted;Ln+Ft3 Oz</item>
+        <item>Pork; Link; Cooked 1 Link</item>
+        <item>Pork; Luncheon Meat;Canned 2 Slices</item>
+        <item>Pork; Luncheon Meat;Choppd Ham2 Slices</item>
+        <item>Pork; Luncheon Meat;Ckd Ham;Ln2 Slices</item>
+        <item>Pork; Luncheon Meat;Ckd Ham;Rg2 Slices</item>
+        <item>Potato Chips 10 Chips</item>
+        <item>Potato Salad Made W/ Mayonnais1 Cup</item>
+        <item>Potatoes; Au Gratin; From Mix 1 Cup</item>
+        <item>Potatoes; Au Gratin; Home Recp1 Cup</item>
+        <item>Potatoes; Baked Flesh Only 1 Potato</item>
+        <item>Potatoes; Baked With Skin 1 Potato</item>
+        <item>Potatoes; Boiled; Peeled After1 Potato</item>
+        <item>Potatoes; Boiled; Peeled Befor1 Potato</item>
+        <item>Potatoes; Hashed Brown;Fr Frzn1 Cup</item>
+        <item>Potatoes; Mashed;Frm Dehydrted1 Cup</item>
+        <item>Potatoes; Mashed;Recpe;Mlk+Mar1 Cup</item>
+        <item>Potatoes; Mashed;Recpe;W/ Milk1 Cup</item>
+        <item>Potatoes; Scalloped; From Mix 1 Cup</item>
+        <item>Potatoes; Scalloped; Home Recp1 Cup</item>
+        <item>Potatoes;French-Frd;Frzn;Fried10 Strip</item>
+        <item>Potatoes;French-Frd;Frzn;Oven 10 Strip</item>
+        <item>Pound Cake; Commercial 1 Loaf</item>
+        <item>Pound Cake; Commercial 1 Slice</item>
+        <item>Pound Cake; From Home Recipe 1 Loaf</item>
+        <item>Pound Cake; From Home Recipe 1 Slice</item>
+        <item>Pretzels; Stick 10 Pretz</item>
+        <item>Pretzels; Twisted; Dutch 1 Pretz</item>
+        <item>Pretzels; Twisted; Thin 10 Pretz</item>
+        <item>Product 19 Cereal 1 Oz</item>
+        <item>Provolone Cheese 1 Oz</item>
+        <item>Prune Juice; Canned 1 Cup</item>
+        <item>Prunes; Dried 5 Large</item>
+        <item>Prunes; Dried; Cooked;Unswtned1 Cup</item>
+        <item>Pudding; Choc; Cooked From Mix1/2 Cup</item>
+        <item>Pudding; Choc; Instant; Fr Mix1/2 Cup</item>
+        <item>Pudding; Chocolate;Canned 5 Oz</item>
+        <item>Pudding; Rice; From Mix 1/2 Cup</item>
+        <item>Pudding; Tapioca; Canned 5 Oz</item>
+        <item>Pudding; Tapioca; From Mix 1/2 Cup</item>
+        <item>Pudding; Vanilla; Canned 5 Oz</item>
+        <item>Pudding; Vnlla;Cooked From Mix1/2 Cup</item>
+        <item>Pudding; Vnlla;Instant Frm Mix1/2 Cup</item>
+        <item>Pumpernickel Bread 1 Loaf</item>
+        <item>Pumpernickel Bread 1 Slice</item>
+        <item>Pumpernickel Bread; Toasted 1 Slice</item>
+        <item>Pumpkin And Squash Kernels 1 Oz</item>
+        <item>Pumpkin Pie 1 Pie</item>
+        <item>Pumpkin Pie 1 Piece</item>
+        <item>Pumpkin; Canned 1 Cup</item>
+        <item>Pumpkin; Cooked From Raw 1 Cup</item>
+        <item>Quiche Lorraine 1 Slice</item>
+        <item>Radishes; Raw 4 Radish</item>
+        <item>Raisin Bran; KelloggS 1 Oz</item>
+        <item>Raisin Bran; Post 1 Oz</item>
+        <item>Raisin Bread 1 Loaf</item>
+        <item>Raisin Bread 1 Slice</item>
+        <item>Raisin Bread; Toasted 1 Slice</item>
+        <item>Raisins 1 Cup</item>
+        <item>Raisins 1 Packet</item>
+        <item>Raspberries; Frozen; Sweetened1 Cup</item>
+        <item>Raspberries; Frozen; Sweetened10 Oz</item>
+        <item>Raspberries; Raw 1 Cup</item>
+        <item>Red Kidney Beans; Dry; Canned 1 Cup</item>
+        <item>Refried Beans; Canned 1 Cup</item>
+        <item>Relish; Sweet 1 Tbsp</item>
+        <item>Rhubarb; Cooked; Added Sugar 1 Cup</item>
+        <item>Rice Krispies Cereal 1 Oz</item>
+        <item>Rice; Brown; Cooked 1 Cup</item>
+        <item>Rice; White; Cooked 1 Cup</item>
+        <item>Rice; White; Instant; Cooked 1 Cup</item>
+        <item>Rice; White; Parboiled; Cooked1 Cup</item>
+        <item>Rice; White; Parboiled; Raw 1 Cup</item>
+        <item>Rice; White; Raw 1 Cup</item>
+        <item>Ricotta Cheese; Part Skim Milk1 Cup</item>
+        <item>Ricotta Cheese; Whole Milk 1 Cup</item>
+        <item>Roast Beef Sandwich 1 Sandwh</item>
+        <item>Rolls; Dinner; Commercial 1 Roll</item>
+        <item>Rolls; Dinner; Home Recipe 1 Roll</item>
+        <item>Rolls; Frankfurter + Hamburger1 Roll</item>
+        <item>Rolls; Hard 1 Roll</item>
+        <item>Rolls; Hoagie Or Submarine 1 Roll</item>
+        <item>Root Beer 12 Fl Oz</item>
+        <item>Rye Bread; Light 1 Loaf</item>
+        <item>Rye Bread; Light 1 Slice</item>
+        <item>Rye Bread; Light; Toasted 1 Slice</item>
+        <item>Rye Wafers; Whole-Grain 2 Wafers</item>
+        <item>Salami; Cooked Type 2 Slices</item>
+        <item>Salami; Dry Type 2 Slices</item>
+        <item>Salmon; Baked; Red 3 Oz</item>
+        <item>Salmon; Canned; Pink; W/ Bones3 Oz</item>
+        <item>Salmon; Smoked 3 Oz</item>
+        <item>Saltines 4 Crackr</item>
+        <item>Sardines; Atlntc;Cnned;Oil;Drn3 Oz</item>
+        <item>Sauerkraut; Canned 1 Cup</item>
+        <item>Scallops; Breaded; Frzn;Reheat6 Scalop</item>
+        <item>Seaweed; Kelp; Raw 1 Oz</item>
+        <item>Seaweed; Spirulina; Dried 1 Oz</item>
+        <item>Self-Rising Flour; Unsifted 1 Cup</item>
+        <item>Semisweet Chocolate 1 Cup</item>
+        <item>Sesame Seeds 1 Tbsp</item>
+        <item>Shakes; Thick; Chocolate 10 Oz</item>
+        <item>Shakes; Thick; Vanilla 10 Oz</item>
+        <item>Sheetcake W/O Frstng;Homerecip1 Cake</item>
+        <item>Sheetcake;W/ Whfrstng;Homercip1 Cake</item>
+        <item>Sheetcake;W/ Whfrstng;Homercip1 Piece</item>
+        <item>Sheetcake;W/O Frstng;Homerecip1 Piece</item>
+        <item>Sherbet; 2% Fat 1 Cup</item>
+        <item>Sherbet; 2% Fat 1/2 Gal</item>
+        <item>Shortbread Cookie; Commercial 4 Cookie</item>
+        <item>Shortbread Cookie; Home Recipe2 Cookie</item>
+        <item>Shredded Wheat Cereal 1 Oz</item>
+        <item>Shrimp; Canned; Drained 3 Oz</item>
+        <item>Shrimp; French Fried 3 Oz</item>
+        <item>Snack Cakes;Devils Food;Cremflsm Cake</item>
+        <item>Snack Cakes;Sponge Creme Fllngsm Cake</item>
+        <item>Snack Type Crackers 1 Crackr</item>
+        <item>Snap Bean;Cnnd;Drnd;Green;Salt1 Cup</item>
+        <item>Snap Bean;Cnnd;Drnd;Grn;Nosalt1 Cup</item>
+        <item>Snap Bean;Cnnd;Drnd;Yllw; Salt1 Cup</item>
+        <item>Snap Bean;Cnnd;Drnd;Yllw;Nosal1 Cup</item>
+        <item>Snap Bean;Frz;Ckd;Drnd;Green 1 Cup</item>
+        <item>Snap Bean;Frz;Ckd;Drnd;Yellow 1 Cup</item>
+        <item>Snap Bean;Raw;Ckd;Drnd;Green 1 Cup</item>
+        <item>Snap Bean;Raw;Ckd;Drnd;Yellow 1 Cup</item>
+        <item>Sour Cream 1 Cup</item>
+        <item>Sour Cream 1 Tbsp</item>
+        <item>Soybeans; Dry; Cooked; Drained1 Cup</item>
+        <item>Spaghetti; Cooked; Firm 1 Cup</item>
+        <item>Spaghetti; Cooked; Tender 1 Cup</item>
+        <item>Spaghetti; Tom Sauce Chee;Hmrp1 Cup</item>
+        <item>Spaghetti; Tom Sauce Chees;Cnd1 Cup</item>
+        <item>Spaghetti;Meatballs;Tomsa;Hmrp1 Cup</item>
+        <item>Spaghetti;Meatballs;Tomsac;Cnd1 Cup</item>
+        <item>Special K Cereal 1 Oz</item>
+        <item>Spinach Souffle 1 Cup</item>
+        <item>Spinach; Canned; Drnd;W/ Salt 1 Cup</item>
+        <item>Spinach; Canned; Drnd;W/O Salt1 Cup</item>
+        <item>Spinach; Cooked Fr Frzen; Drnd1 Cup</item>
+        <item>Spinach; Cooked From Raw; Drnd1 Cup</item>
+        <item>Spinach; Raw 1 Cup</item>
+        <item>Squash; Summer; Cooked; Draind1 Cup</item>
+        <item>Squash; Winter; Baked 1 Cup</item>
+        <item>Strawberries; Frozen; Sweetend1 Cup</item>
+        <item>Strawberries; Frozen; Sweetend10 Oz</item>
+        <item>Strawberries; Raw 1 Cup</item>
+        <item>Sugar Cookie; From Refrig Dogh4 Cookie</item>
+        <item>Sugar Frosted Flakes; Kellogg 1 Oz</item>
+        <item>Sugar Smacks Cereal 1 Oz</item>
+        <item>Sugar; Brown; Pressed Down 1 Cup</item>
+        <item>Sugar; Powdered; Sifted 1 Cup</item>
+        <item>Sugar; White; Granulated 1 Cup</item>
+        <item>Sugar; White; Granulated 1 Pkt</item>
+        <item>Sugar; White; Granulated 1 Tbsp</item>
+        <item>Sunflower Seeds 1 Oz</item>
+        <item>Super Sugar Crisp Cereal 1 Oz</item>
+        <item>Sweet (Dark) Chocolate 1 Oz</item>
+        <item>Sweetened Condensed Milk Cnnd 1 Cup</item>
+        <item>Sweetpotatoes; Baked; Peeled 1 Potato</item>
+        <item>Sweetpotatoes; Boiled W/O Peel1 Potato</item>
+        <item>Sweetpotatoes; Candied 1 Piece</item>
+        <item>Sweetpotatoes; Canned; Mashed 1 Cup</item>
+        <item>Sweetpotatoes; Cnned; Vac Pack1 Piece</item>
+        <item>Swiss Cheese 1 Oz</item>
+        <item>Syrup; Chocolate Flavored Thin2 Tbsp</item>
+        <item>Syrup; Chocolate Flvred; Fudge2 Tbsp</item>
+        <item>Table Syrup (Corn And Maple) 2 Tbsp</item>
+        <item>Taco 1 Taco</item>
+        <item>Tangerine Juice; Canned;Swtned1 Cup</item>
+        <item>Tangerines; Canned; Light Syrp1 Cup</item>
+        <item>Tangerines; Raw 1 Tangrn</item>
+        <item>Tea; Brewed 8 Fl Oz</item>
+        <item>Tea; Instant;Preprd;Unsweetend8 Fl Oz</item>
+        <item>Tea;Instant;Prepard;Sweetened 8 Fl Oz</item>
+        <item>Toaster Pastries 1 Pastry</item>
+        <item>Tofu 1 Piece</item>
+        <item>Tomato Juice; Canned W/O Salt 1 Cup</item>
+        <item>Tomato Juice; Canned With Salt1 Cup</item>
+        <item>Tomato Paste; Canned W/O Salt 1 Cup</item>
+        <item>Tomato Paste; Canned With Salt1 Cup</item>
+        <item>Tomato Puree; Canned W/O Salt 1 Cup</item>
+        <item>Tomato Puree; Canned With Salt1 Cup</item>
+        <item>Tomato Sauce; Canned With Salt1 Cup</item>
+        <item>Tomato Soup W/ Water; Canned 1 Cup</item>
+        <item>Tomato Soup With Milk; Canned 1 Cup</item>
+        <item>Tomato Veg Soup; Dehyd;Prepred1 Pkt</item>
+        <item>Tomatoes; Canned; S+L; W/ Salt1 Cup</item>
+        <item>Tomatoes; Canned; S+L;W/O Salt1 Cup</item>
+        <item>Tomatoes; Raw 1 Tomato</item>
+        <item>Tortillas; Corn 1 Tortla</item>
+        <item>Total Cereal 1 Oz</item>
+        <item>Trix Cereal 1 Oz</item>
+        <item>Trout; Broiled; W/ Buttr;Lemju3 Oz</item>
+        <item>Tuna Salad 1 Cup</item>
+        <item>Tuna; Cannd; Drnd;Oil;Chk;Lght3 Oz</item>
+        <item>Tuna; Cannd; Drnd;Watr; White 3 Oz</item>
+        <item>Turkey Ham; Cured Turkey Thigh2 Slices</item>
+        <item>Turkey Loaf; Breast Meat W/O C2 Slices</item>
+        <item>Turkey Loaf; Breast Meat; W/ C2 Slices</item>
+        <item>Turkey Patties; Brd;Battd;Frid1 Patty</item>
+        <item>Turkey Roast; Frzn;Lght+Drk;Ck3 Oz</item>
+        <item>Turkey; Roasted; Dark Meat 4 Pieces</item>
+        <item>Turkey; Roasted; Light + Dark 1 Cup</item>
+        <item>Turkey; Roasted; Light + Dark 3 Pieces</item>
+        <item>Turkey; Roasted; Light Meat 2 Pieces</item>
+        <item>Turnip Greens; Cked Frm Frozen1 Cup</item>
+        <item>Turnip Greens; Cooked From Raw1 Cup</item>
+        <item>Turnips; Cooked; Diced 1 Cup</item>
+        <item>Vanilla Wafers 10 Cooke</item>
+        <item>Veal Cutlet; Med Fat;Brsd;Brld3 Oz</item>
+        <item>Veal Rib; Med Fat; Roasted 3 Oz</item>
+        <item>Vegetable Beef Soup; Canned 1 Cup</item>
+        <item>Vegetable Juice Cocktail; Cnnd1 Cup</item>
+        <item>Vegetables; Mixed; Canned 1 Cup</item>
+        <item>Vegetables; Mixed; Cked Fr Frz1 Cup</item>
+        <item>Vegetarian Soup; Canned 1 Cup</item>
+        <item>Vienna Bread 1 Slice</item>
+        <item>Vienna Sausage 1 Sausag</item>
+        <item>Waffles; From Home Recipe 1 Waffle</item>
+        <item>Waffles; From Mix 1 Waffle</item>
+        <item>Walnuts; Black; Chopped 1 Cup</item>
+        <item>Walnuts; Black; Chopped 1 Oz</item>
+        <item>Walnuts; English; Pieces 1 Cup</item>
+        <item>Walnuts; English; Pieces 1 Oz</item>
+        <item>Water Chestnuts; Canned 1 Cup</item>
+        <item>Watermelon; Raw 1 Piece</item>
+        <item>Watermelon; Raw; Diced 1 Cup</item>
+        <item>Wheat Bread 1 Loaf</item>
+        <item>Wheat Bread 1 Slice</item>
+        <item>Wheat Bread; Toasted 1 Slice</item>
+        <item>Wheat Flour; All-Purpose;Siftd1 Cup</item>
+        <item>Wheat Flour; All-Purpose;Unsif1 Cup</item>
+        <item>Wheat; Thin Crackers 4 Crackr</item>
+        <item>Wheaties Cereal 1 Oz</item>
+        <item>Whipped Topping; Pressurized 1 Cup</item>
+        <item>Whipped Topping; Pressurized 1 Tbsp</item>
+        <item>Whipping Cream; Unwhiped;Heavy1 Cup</item>
+        <item>Whipping Cream; Unwhiped;Heavy1 Tbsp</item>
+        <item>Whipping Cream; Unwhiped;Light1 Cup</item>
+        <item>Whipping Cream; Unwhiped;Light1 Tbsp</item>
+        <item>White Bread 1 Loaf</item>
+        <item>White Bread Crumbs; Soft 1 Cup</item>
+        <item>White Bread Cubes 1 Cup</item>
+        <item>White Bread; Slice 18 Per Loaf1 Slice</item>
+        <item>White Bread; Slice 22 Per Loaf1 Slice</item>
+        <item>White Bread; Toasted 18 Per 1 Slice</item>
+        <item>White Bread; Toasted 22 Per 1 Slice</item>
+        <item>White Cake W/ Wht Frstng;Comml1 Cake</item>
+        <item>White Cake W/ Wht Frstng;Comml1 Piece</item>
+        <item>White Sauce W/ Milk From Mix 1 Cup</item>
+        <item>White Sauce; Medium; Home Recp1 Cup</item>
+        <item>Whole-Wheat Bread 1 Loaf</item>
+        <item>Whole-Wheat Bread 1 Slice</item>
+        <item>Whole-Wheat Bread; Toasted 1 Slice</item>
+        <item>Whole-Wheat Flour;Hrd Wht;Stir1 Cup</item>
+        <item>Whole-Wheat Wafers; Crackers 2 Crackr</item>
+        <item>Wine; Dessert 3.5 F Oz</item>
+        <item>Wine; Table; Red 3.5 F Oz</item>
+        <item>Wine; Table; White 3.5 F Oz</item>
+        <item>Yellow Cake W/ Choc Frst;Frmix1 Cake</item>
+        <item>Yellow Cake W/ Choc Frst;Frmix1 Piece</item>
+        <item>Yellowcake W/ Chocfrstng;Comml1 Cake</item>
+        <item>Yellowcake W/ Chocfrstng;Comml1 Piece</item>
+    </string-array>
+    <!-- From: file:/Users/benjaminalderfer/Documents/app/build/exploded-bundles/ComAndroidSupportAppcompatV71901.aar/res/values/values.xml -->
+    <eat-comment />
+
+    <attr name="actionBarDivider" format="reference" />
+    <attr name="actionBarItemBackground" format="reference" />
+    <attr name="actionBarSize" format="dimension" />
+    <attr name="actionBarSplitStyle" format="reference" />
+    <attr name="actionBarStyle" format="reference" />
+    <attr name="actionBarTabBarStyle" format="reference" />
+    <attr name="actionBarTabStyle" format="reference" />
+    <attr name="actionBarTabTextStyle" format="reference" />
+    <attr name="actionBarWidgetTheme" format="reference" />
+    <attr name="actionButtonStyle" format="reference" />
+    <attr name="actionMenuTextAppearance" format="reference" />
+    <attr name="actionMenuTextColor" format="color|reference" />
+    <attr name="actionModeBackground" format="reference" />
+    <attr name="actionModeCloseButtonStyle" format="reference" />
+    <attr name="actionModeCloseDrawable" format="reference" />
+    <attr name="actionModeCopyDrawable" format="reference" />
+    <attr name="actionModeCutDrawable" format="reference" />
+    <attr name="actionModeFindDrawable" format="reference" />
+    <attr name="actionModePasteDrawable" format="reference" />
+    <attr name="actionModePopupWindowStyle" format="reference" />
+    <attr name="actionModeSelectAllDrawable" format="reference" />
+    <attr name="actionModeShareDrawable" format="reference" />
+    <attr name="actionModeSplitBackground" format="reference" />
+    <attr name="actionModeStyle" format="reference" />
+    <attr name="actionModeWebSearchDrawable" format="reference" />
+    <attr name="actionOverflowButtonStyle" format="reference" />
+    <attr name="activityChooserViewStyle" format="reference" />
+    <attr name="buttonBarButtonStyle" format="reference" />
+    <attr name="buttonBarStyle" format="reference" />
+    <attr name="dividerHorizontal" format="reference" />
+    <attr name="dividerVertical" format="reference" />
+    <attr name="dropDownListViewStyle" format="reference" />
+    <attr name="height" format="dimension" />
+    <attr name="homeAsUpIndicator" format="reference" />
+    <attr name="isLightTheme" format="boolean" />
+    <attr name="listPopupWindowStyle" format="reference" />
+    <attr name="listPreferredItemHeight" format="dimension" />
+    <attr name="listPreferredItemHeightLarge" format="dimension" />
+    <attr name="listPreferredItemHeightSmall" format="dimension" />
+    <attr name="listPreferredItemPaddingLeft" format="dimension" />
+    <attr name="listPreferredItemPaddingRight" format="dimension" />
+    <attr name="searchDropdownBackground" format="reference" />
+    <attr name="searchResultListItemHeight" format="dimension" />
+    <attr name="searchViewAutoCompleteTextView" format="reference" />
+    <attr name="searchViewCloseIcon" format="reference" />
+    <attr name="searchViewEditQuery" format="reference" />
+    <attr name="searchViewEditQueryBackground" format="reference" />
+    <attr name="searchViewGoIcon" format="reference" />
+    <attr name="searchViewSearchIcon" format="reference" />
+    <attr name="searchViewTextField" format="reference" />
+    <attr name="searchViewTextFieldRight" format="reference" />
+    <attr name="searchViewVoiceIcon" format="reference" />
+    <attr name="selectableItemBackground" format="reference" />
+    <attr name="spinnerDropDownItemStyle" format="reference" />
+    <attr name="spinnerStyle" format="reference" />
+    <attr name="textAppearanceLargePopupMenu" format="reference" />
+    <attr name="textAppearanceListItem" format="reference" />
+    <attr name="textAppearanceListItemSmall" format="reference" />
+    <attr name="textAppearanceSearchResultSubtitle" format="reference" />
+    <attr name="textAppearanceSearchResultTitle" format="reference" />
+    <attr name="textAppearanceSmallPopupMenu" format="reference" />
+    <attr name="textColorSearchUrl" format="reference|color" />
+    <attr name="title" format="string" />
+
+    <bool name="abc_action_bar_embed_tabs_pre_jb">false</bool>
+    <bool name="abc_action_bar_expanded_action_views_exclusive">true</bool>
+    <bool name="abc_config_actionMenuItemAllCaps">true</bool>
+    <bool name="abc_config_allowActionMenuItemTextWithIcon">false</bool>
+    <bool name="abc_config_showMenuShortcutsWhenKeyboardPresent">false</bool>
+    <bool name="abc_split_action_bar_is_narrow">true</bool>
+
+    <color name="abc_search_url_text_normal">#7fa87f</color>
+    <color name="abc_search_url_text_pressed">@android:color/black</color>
+    <color name="abc_search_url_text_selected">@android:color/black</color>
+
+    <declare-styleable name="ActionBar">
+
+        <!-- The type of navigation to use. -->
+        <attr name="navigationMode">
+
+            <!-- Normal static title text -->
+            <enum name="normal" value="0" />
+            <!-- The action bar will use a selection list for navigation. -->
+            <enum name="listMode" value="1" />
+            <!-- The action bar will use a series of horizontal tabs for navigation. -->
+            <enum name="tabMode" value="2" />
+        </attr>
+        <!-- Options affecting how the action bar is displayed. -->
+        <attr name="displayOptions">
+            <flag name="useLogo" value="0x1" />
+            <flag name="showHome" value="0x2" />
+            <flag name="homeAsUp" value="0x4" />
+            <flag name="showTitle" value="0x8" />
+            <flag name="showCustom" value="0x10" />
+            <flag name="disableHome" value="0x20" />
+        </attr>
+        <!-- Specifies title text used for navigationMode="normal" -->
+        <attr name="title" />
+        <!-- Specifies subtitle text used for navigationMode="normal" -->
+        <attr name="subtitle" format="string" />
+        <!-- Specifies a style to use for title text. -->
+        <attr name="titleTextStyle" format="reference" />
+        <!-- Specifies a style to use for subtitle text. -->
+        <attr name="subtitleTextStyle" format="reference" />
+        <!-- Specifies the drawable used for the application icon. -->
+        <attr name="icon" format="reference" />
+        <!-- Specifies the drawable used for the application logo. -->
+        <attr name="logo" format="reference" />
+        <!-- Specifies the drawable used for item dividers. -->
+        <attr name="divider" format="reference" />
+        <!-- Specifies a background drawable for the action bar. -->
+        <attr name="background" format="reference" />
+        <!-- Specifies a background drawable for a second stacked row of the action bar. -->
+        <attr name="backgroundStacked" format="reference|color" />
+        <!-- Specifies a background drawable for the bottom component of a split action bar. -->
+        <attr name="backgroundSplit" format="reference|color" />
+        <!-- Specifies a layout for custom navigation. Overrides navigationMode. -->
+        <attr name="customNavigationLayout" format="reference" />
+        <!-- Specifies a fixed height. -->
+        <attr name="height" />
+        <!-- Specifies a layout to use for the "home" section of the action bar. -->
+        <attr name="homeLayout" format="reference" />
+        <!-- Specifies a style resource to use for an embedded progress bar. -->
+        <attr name="progressBarStyle" format="reference" />
+        <!-- Specifies a style resource to use for an indeterminate progress spinner. -->
+        <attr name="indeterminateProgressStyle" format="reference" />
+        <!-- Specifies the horizontal padding on either end for an embedded progress bar. -->
+        <attr name="progressBarPadding" format="dimension" />
+        <!--
+             Specifies padding that should be applied to the left and right sides of
+             system-provided items in the bar.
+        -->
+        <attr name="itemPadding" format="dimension" />
+    </declare-styleable>
+    <declare-styleable name="ActionBarLayout">
+        <attr name="android:layout_gravity" />
+    </declare-styleable>
+    <declare-styleable name="ActionBarWindow">
+        <attr name="windowActionBar" format="boolean" />
+        <attr name="windowActionBarOverlay" format="boolean" />
+        <attr name="windowSplitActionBar" format="boolean" />
+    </declare-styleable>
+    <declare-styleable name="ActionMenuItemView">
+        <attr name="android:minWidth" />
+    </declare-styleable>
+    <declare-styleable name="ActionMenuView">
+        <!-- Size of padding on either end of a divider. -->
+    </declare-styleable>
+    <declare-styleable name="ActionMode">
+
+        <!-- Specifies a style to use for title text. -->
+        <attr name="titleTextStyle" />
+        <!-- Specifies a style to use for subtitle text. -->
+        <attr name="subtitleTextStyle" />
+        <!-- Specifies a background for the action mode bar. -->
+        <attr name="background" />
+        <!-- Specifies a background for the split action mode bar. -->
+        <attr name="backgroundSplit" />
+        <!-- Specifies a fixed height for the action mode bar. -->
+        <attr name="height" />
+    </declare-styleable>
+    <declare-styleable name="ActivityChooserView">
+
+        <!-- The maximal number of items initially shown in the activity list. -->
+        <attr name="initialActivityCount" format="string" />
+        <!--
+             The drawable to show in the button for expanding the activities overflow popup.
+             <strong>Note:</strong> Clients would like to set this drawable
+             as a clue about the action the chosen activity will perform. For
+             example, if share activity is to be chosen the drawable should
+             give a clue that sharing is to be performed.
+        -->
+        <attr name="expandActivityOverflowButtonDrawable" format="reference" />
+    </declare-styleable>
+    <declare-styleable name="CompatTextView">
+
+        <!-- Present the text in ALL CAPS. This may use a small-caps form when available. -->
+        <attr name="textAllCaps" format="reference|boolean" />
+    </declare-styleable>
+    <declare-styleable name="LinearLayoutICS">
+
+        <!-- Drawable to use as a vertical divider between buttons. -->
+        <attr name="divider" />
+        <!-- Setting for which dividers to show. -->
+        <attr name="showDividers">
+            <flag name="none" value="0" />
+            <flag name="beginning" value="1" />
+            <flag name="middle" value="2" />
+            <flag name="end" value="4" />
+        </attr>
+        <!-- Size of padding on either end of a divider. -->
+        <attr name="dividerPadding" format="dimension" />
+    </declare-styleable>
+    <declare-styleable name="MenuGroup">
+
+        <!-- The ID of the group. -->
+        <attr name="android:id" />
+
+        <!--
+             The category applied to all items within this group.
+             (This will be or'ed with the orderInCategory attribute.)
+        -->
+        <attr name="android:menuCategory" />
+
+        <!--
+             The order within the category applied to all items within this group.
+             (This will be or'ed with the category attribute.)
+        -->
+        <attr name="android:orderInCategory" />
+
+        <!-- Whether the items are capable of displaying a check mark. -->
+        <attr name="android:checkableBehavior" />
+
+        <!-- Whether the items are shown/visible. -->
+        <attr name="android:visible" />
+
+        <!-- Whether the items are enabled. -->
+        <attr name="android:enabled" />
+    </declare-styleable>
+    <declare-styleable name="MenuItem">
+
+        <!-- The ID of the item. -->
+        <attr name="android:id" />
+
+        <!--
+             The category applied to the item.
+             (This will be or'ed with the orderInCategory attribute.)
+        -->
+        <attr name="android:menuCategory" />
+
+        <!--
+             The order within the category applied to the item.
+             (This will be or'ed with the category attribute.)
+        -->
+        <attr name="android:orderInCategory" />
+
+        <!-- The title associated with the item. -->
+        <attr name="android:title" />
+
+        <!--
+             The condensed title associated with the item.  This is used in situations where the
+             normal title may be too long to be displayed.
+        -->
+        <attr name="android:titleCondensed" />
+
+        <!--
+             The icon associated with this item.  This icon will not always be shown, so
+             the title should be sufficient in describing this item.
+        -->
+        <attr name="android:icon" />
+
+        <!--
+             The alphabetic shortcut key.  This is the shortcut when using a keyboard
+             with alphabetic keys.
+        -->
+        <attr name="android:alphabeticShortcut" />
+
+        <!--
+             The numeric shortcut key.  This is the shortcut when using a numeric (e.g., 12-key)
+             keyboard.
+        -->
+        <attr name="android:numericShortcut" />
+
+        <!-- Whether the item is capable of displaying a check mark. -->
+        <attr name="android:checkable" />
+
+        <!--
+             Whether the item is checked.  Note that you must first have enabled checking with
+             the checkable attribute or else the check mark will not appear.
+        -->
+        <attr name="android:checked" />
+
+        <!-- Whether the item is shown/visible. -->
+        <attr name="android:visible" />
+
+        <!-- Whether the item is enabled. -->
+        <attr name="android:enabled" />
+
+        <!--
+             Name of a method on the Context used to inflate the menu that will be
+             called when the item is clicked.
+        -->
+        <attr name="android:onClick" />
+
+        <!-- How this item should display in the Action Bar, if present. -->
+        <attr name="showAsAction">
+
+            <!--
+                 Never show this item in an action bar, show it in the overflow menu instead.
+                 Mutually exclusive with "ifRoom" and "always".
+            -->
+            <flag name="never" value="0" />
+            <!--
+                 Show this item in an action bar if there is room for it as determined
+                 by the system. Favor this option over "always" where possible.
+                 Mutually exclusive with "never" and "always".
+            -->
+            <flag name="ifRoom" value="1" />
+            <!--
+                 Always show this item in an actionbar, even if it would override
+                 the system's limits of how much stuff to put there. This may make
+                 your action bar look bad on some screens. In most cases you should
+                 use "ifRoom" instead. Mutually exclusive with "ifRoom" and "never".
+            -->
+            <flag name="always" value="2" />
+            <!--
+                 When this item is shown as an action in the action bar, show a text
+                 label with it even if it has an icon representation.
+            -->
+            <flag name="withText" value="4" />
+            <!--
+                 This item's action view collapses to a normal menu
+                 item. When expanded, the action view takes over a
+                 larger segment of its container.
+            -->
+            <flag name="collapseActionView" value="8" />
+        </attr>
+
+        <!--
+             An optional layout to be used as an action view.
+             See {@link android.view.MenuItem#setActionView(android.view.View)}
+             for more info.
+        -->
+        <attr name="actionLayout" format="reference" />
+
+        <!--
+             The name of an optional View class to instantiate and use as an
+             action view. See {@link android.view.MenuItem#setActionView(android.view.View)}
+             for more info.
+        -->
+        <attr name="actionViewClass" format="string" />
+
+        <!--
+             The name of an optional ActionProvider class to instantiate an action view
+             and perform operations such as default action for that menu item.
+             See {@link android.view.MenuItem#setActionProvider(android.view.ActionProvider)}
+             for more info.
+        -->
+        <attr name="actionProviderClass" format="string" />
+    </declare-styleable>
+    <declare-styleable name="MenuView">
+
+        <!-- Default appearance of menu item text. -->
+        <attr name="android:itemTextAppearance" />
+        <!-- Default horizontal divider between rows of menu items. -->
+        <attr name="android:horizontalDivider" />
+        <!-- Default vertical divider between menu items. -->
+        <attr name="android:verticalDivider" />
+        <!-- Default background for the menu header. -->
+        <attr name="android:headerBackground" />
+        <!-- Default background for each menu item. -->
+        <attr name="android:itemBackground" />
+        <!-- Default animations for the menu. -->
+        <attr name="android:windowAnimationStyle" />
+        <!-- Default disabled icon alpha for each menu item that shows an icon. -->
+        <attr name="android:itemIconDisabledAlpha" />
+        <!-- Whether space should be reserved in layout when an icon is missing. -->
+        <attr name="android:preserveIconSpacing" />
+    </declare-styleable>
+    <declare-styleable name="SearchView">
+
+        <!--
+             The default state of the SearchView. If true, it will be iconified when not in
+             use and expanded when clicked.
+        -->
+        <attr name="iconifiedByDefault" format="boolean" />
+        <!-- An optional maximum width of the SearchView. -->
+        <attr name="android:maxWidth" />
+        <!-- An optional query hint string to be displayed in the empty query field. -->
+        <attr name="queryHint" format="string" />
+        <!-- The IME options to set on the query text field. -->
+        <attr name="android:imeOptions" />
+        <!-- The input type to set on the query text field. -->
+        <attr name="android:inputType" />
+    </declare-styleable>
+    <declare-styleable name="Spinner">
+
+        <!-- The prompt to display when the spinner's dialog is shown. -->
+        <attr name="prompt" format="reference" />
+        <!-- Display mode for spinner options. -->
+        <attr name="spinnerMode" format="enum">
+
+            <!-- Spinner options will be presented to the user as a dialog window. -->
+            <enum name="dialog" value="0" />
+            <!--
+                 Spinner options will be presented to the user as an inline dropdown
+                 anchored to the spinner widget itself.
+            -->
+            <enum name="dropdown" value="1" />
+        </attr>
+        <!-- List selector to use for spinnerMode="dropdown" display. -->
+        <attr name="android:dropDownSelector" />
+        <!-- Background drawable to use for the dropdown in spinnerMode="dropdown". -->
+        <attr name="android:popupBackground" />
+        <!--
+             Vertical offset from the spinner widget for positioning the dropdown in
+             spinnerMode="dropdown".
+        -->
+        <attr name="android:dropDownVerticalOffset" />
+        <!--
+             Horizontal offset from the spinner widget for positioning the dropdown
+             in spinnerMode="dropdown".
+        -->
+        <attr name="android:dropDownHorizontalOffset" />
+        <!-- Width of the dropdown in spinnerMode="dropdown". -->
+        <attr name="android:dropDownWidth" />
+        <!--
+             Reference to a layout to use for displaying a prompt in the dropdown for
+             spinnerMode="dropdown". This layout must contain a TextView with the id
+             {@code @android:id/text1} to be populated with the prompt text.
+        -->
+        <attr name="popupPromptView" format="reference" />
+        <!-- Gravity setting for positioning the currently selected item. -->
+        <attr name="android:gravity" />
+        <!--
+             Whether this spinner should mark child views as enabled/disabled when
+             the spinner itself is enabled/disabled.
+        -->
+        <attr name="disableChildrenWhenDisabled" format="boolean" />
+    </declare-styleable>
+    <declare-styleable name="Theme">
+
+        <!-- Default ActionBar dropdown style. -->
+        <attr name="actionDropDownStyle" format="reference" />
+        <!-- The preferred item height for dropdown lists. -->
+        <attr name="dropdownListPreferredItemHeight" format="dimension" />
+        <!-- Default PopupMenu style. -->
+        <attr name="popupMenuStyle" format="reference" />
+
+        <!-- ============ -->
+        <!-- Panel styles -->
+        <!-- ============ -->
+        <eat-comment />
+
+        <!-- Default Panel Menu width. -->
+        <attr name="panelMenuListWidth" format="dimension" />
+
+        <!-- Default Panel Menu style. -->
+        <attr name="panelMenuListTheme" format="reference" />
+
+        <!-- Drawable used as a background for selected list items. -->
+        <attr name="listChoiceBackgroundIndicator" format="reference" />
+    </declare-styleable>
+    <declare-styleable name="View">
+
+        <!-- Sets the padding, in pixels, of the start edge; see {@link android.R.attr#padding}. -->
+        <attr name="paddingStart" format="dimension" />
+        <!-- Sets the padding, in pixels, of the end edge; see {@link android.R.attr#padding}. -->
+        <attr name="paddingEnd" format="dimension" />
+
+        <!--
+             Boolean that controls whether a view can take focus.  By default the user can not
+             move focus to a view; by setting this attribute to true the view is
+             allowed to take focus.  This value does not impact the behavior of
+             directly calling {@link android.view.View#requestFocus}, which will
+             always request focus regardless of this view.  It only impacts where
+             focus navigation will try to move focus.
+        -->
+        <attr name="android:focusable" />
+    </declare-styleable>
+
+    <dimen name="abc_action_bar_default_height">48dip</dimen>
+    <dimen name="abc_action_bar_icon_vertical_padding">8dip</dimen>
+    <dimen name="abc_action_bar_progress_bar_size">40dp</dimen>
+    <dimen name="abc_action_bar_stacked_max_height">48dp</dimen>
+    <dimen name="abc_action_bar_stacked_tab_max_width">180dp</dimen>
+    <dimen name="abc_action_bar_subtitle_bottom_margin">5dip</dimen>
+    <dimen name="abc_action_bar_subtitle_text_size">14dp</dimen>
+    <dimen name="abc_action_bar_subtitle_top_margin">-3dp</dimen>
+    <dimen name="abc_action_bar_title_text_size">18dp</dimen>
+    <dimen name="abc_action_button_min_width">56dip</dimen>
+    <dimen name="abc_config_prefDialogWidth">320dp</dimen>
+    <dimen name="abc_dropdownitem_icon_width">32dip</dimen>
+    <dimen name="abc_dropdownitem_text_padding_left">8dip</dimen>
+    <dimen name="abc_dropdownitem_text_padding_right">8dip</dimen>
+    <dimen name="abc_panel_menu_list_width">296dp</dimen>
+    <dimen name="abc_search_view_preferred_width">320dip</dimen>
+    <dimen name="abc_search_view_text_min_width">160dip</dimen>
+    <!-- From: file:/Users/benjaminalderfer/Documents/app/src/main/res/values/dimens.xml -->
+    <eat-comment />
+
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <!-- From: file:/Users/benjaminalderfer/Documents/app/build/exploded-bundles/ComAndroidSupportAppcompatV71901.aar/res/values/values.xml -->
+    <eat-comment />
+
+    <item name="action_bar_activity_content" type="id"/>
+    <item name="action_menu_divider" type="id"/>
+    <item name="action_menu_presenter" type="id"/>
+    <item name="home" type="id"/>
+    <item name="progress_circular" type="id"/>
+    <item name="progress_horizontal" type="id"/>
+
+    <integer name="abc_max_action_buttons">2</integer>
+
+    <string name="abc_action_bar_home_description">Navigate home</string>
+    <string name="abc_action_bar_up_description">Navigate up</string>
+    <string name="abc_action_menu_overflow_description">More options</string>
+    <string name="abc_action_mode_done">Done</string>
+    <string name="abc_activity_chooser_view_see_all">See all</string>
+    <string name="abc_activitychooserview_choose_application">Choose an app</string>
+    <string name="abc_searchview_description_clear">Clear query</string>
+    <string name="abc_searchview_description_query">Search query</string>
+    <string name="abc_searchview_description_search">Search</string>
+    <string name="abc_searchview_description_submit">Submit query</string>
+    <string name="abc_searchview_description_voice">Voice search</string>
+    <string name="abc_shareactionprovider_share_with">Share with</string>
+    <string name="abc_shareactionprovider_share_with_application">Share with %s</string>
+    <!-- From: file:/Users/benjaminalderfer/Documents/app/src/main/res/values/strings.xml -->
+    <eat-comment />
+
+    <string name="action_settings">Settings</string>
+    <string name="app_name">fitr</string>
+    <!-- From: file:/Users/benjaminalderfer/Documents/app/src/main/res/values/styles.xml -->
+    <eat-comment />
+
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+    <!-- From: file:/Users/benjaminalderfer/Documents/app/build/exploded-bundles/ComAndroidSupportAppcompatV71901.aar/res/values/values.xml -->
+    <eat-comment />
+
+    <style name="TextAppearance.AppCompat.Base.CompactMenu.Dialog" parent="android:TextAppearance.Medium">
+        <item name="android:textColor">@android:color/primary_text_light</item>
+    </style>
+
+    <style name="TextAppearance.AppCompat.Base.SearchResult" parent="">
+        <item name="android:textStyle">normal</item>
+        <item name="android:textColor">?android:textColorPrimary</item>
+        <item name="android:textColorHint">?android:textColorHint</item>
+    </style>
+
+    <style name="TextAppearance.AppCompat.Base.SearchResult.Subtitle">
+        <item name="android:textSize">14sp</item>
+        <item name="android:textColor">?android:textColorSecondary</item>
+    </style>
+
+    <style name="TextAppearance.AppCompat.Base.SearchResult.Title">
+        <item name="android:textSize">18sp</item>
+    </style>
+
+    <style name="TextAppearance.AppCompat.Base.Widget.PopupMenu.Large" parent="android:TextAppearance.Widget">
+        <item name="android:textColor">?android:attr/textColorPrimaryDisableOnly</item>
+        <item name="android:textSize">18sp</item>
+    </style>
+
+    <style name="TextAppearance.AppCompat.Base.Widget.PopupMenu.Small" parent="android:TextAppearance.Widget">
+        <item name="android:textColor">?android:attr/textColorPrimaryDisableOnly</item>
+        <item name="android:textSize">14sp</item>
+    </style>
+
+    <style name="TextAppearance.AppCompat.Light.Base.SearchResult" parent="TextAppearance.AppCompat.Base.SearchResult">
+        <item name="android:textColor">?android:textColorPrimary</item>
+        <item name="android:textColorHint">?android:textColorHint</item>
+    </style>
+
+    <style name="TextAppearance.AppCompat.Light.Base.SearchResult.Subtitle">
+        <item name="android:textSize">14sp</item>
+        <item name="android:textColor">?android:textColorSecondary</item>
+    </style>
+
+    <style name="TextAppearance.AppCompat.Light.Base.SearchResult.Title">
+        <item name="android:textSize">18sp</item>
+    </style>
+
+    <style name="TextAppearance.AppCompat.Light.Base.Widget.PopupMenu.Large" parent="TextAppearance.AppCompat.Base.Widget.PopupMenu.Large" />
+
+    <style name="TextAppearance.AppCompat.Light.Base.Widget.PopupMenu.Small" parent="TextAppearance.AppCompat.Base.Widget.PopupMenu.Small" />
+
+    <style name="TextAppearance.AppCompat.Light.SearchResult.Subtitle" parent="TextAppearance.AppCompat.Light.Base.SearchResult.Subtitle" />
+
+    <style name="TextAppearance.AppCompat.Light.SearchResult.Title" parent="TextAppearance.AppCompat.Light.Base.SearchResult.Title" />
+
+    <style name="TextAppearance.AppCompat.Light.Widget.PopupMenu.Large" parent="TextAppearance.AppCompat.Light.Base.Widget.PopupMenu.Large" />
+
+    <style name="TextAppearance.AppCompat.Light.Widget.PopupMenu.Small" parent="TextAppearance.AppCompat.Light.Base.Widget.PopupMenu.Small" />
+
+    <style name="TextAppearance.AppCompat.SearchResult.Subtitle" parent="TextAppearance.AppCompat.Base.SearchResult.Subtitle" />
+
+    <style name="TextAppearance.AppCompat.SearchResult.Title" parent="TextAppearance.AppCompat.Base.SearchResult.Title" />
+
+    <style name="TextAppearance.AppCompat.Widget.ActionBar.Menu" parent="TextAppearance.AppCompat.Widget.Base.ActionBar.Menu" />
+
+    <style name="TextAppearance.AppCompat.Widget.ActionBar.Subtitle" parent="TextAppearance.AppCompat.Widget.Base.ActionBar.Subtitle" />
+
+    <style name="TextAppearance.AppCompat.Widget.ActionBar.Subtitle.Inverse" parent="TextAppearance.AppCompat.Widget.Base.ActionBar.Subtitle.Inverse" />
+
+    <style name="TextAppearance.AppCompat.Widget.ActionBar.Title" parent="TextAppearance.AppCompat.Widget.Base.ActionBar.Title" />
+
+    <style name="TextAppearance.AppCompat.Widget.ActionBar.Title.Inverse" parent="TextAppearance.AppCompat.Widget.Base.ActionBar.Title.Inverse" />
+
+    <style name="TextAppearance.AppCompat.Widget.ActionMode.Subtitle" parent="TextAppearance.AppCompat.Widget.Base.ActionMode.Subtitle" />
+
+    <style name="TextAppearance.AppCompat.Widget.ActionMode.Subtitle.Inverse" parent="TextAppearance.AppCompat.Widget.Base.ActionMode.Subtitle.Inverse" />
+
+    <style name="TextAppearance.AppCompat.Widget.ActionMode.Title" parent="TextAppearance.AppCompat.Widget.Base.ActionMode.Title" />
+
+    <style name="TextAppearance.AppCompat.Widget.ActionMode.Title.Inverse" parent="TextAppearance.AppCompat.Widget.Base.ActionMode.Title.Inverse" />
+
+    <style name="TextAppearance.AppCompat.Widget.Base.ActionBar.Menu" parent="android:TextAppearance.Small">
+        <item name="android:textSize">12sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">?attr/actionMenuTextColor</item>
+    </style>
+
+    <style name="TextAppearance.AppCompat.Widget.Base.ActionBar.Subtitle" parent="android:TextAppearance.Small">
+        <item name="android:textSize">@dimen/abc_action_bar_subtitle_text_size</item>
+    </style>
+
+    <style name="TextAppearance.AppCompat.Widget.Base.ActionBar.Subtitle.Inverse" parent="android:TextAppearance.Small.Inverse">
+        <item name="android:textSize">@dimen/abc_action_bar_subtitle_text_size</item>
+    </style>
+
+    <style name="TextAppearance.AppCompat.Widget.Base.ActionBar.Title" parent="android:TextAppearance.Medium">
+        <item name="android:textSize">@dimen/abc_action_bar_title_text_size</item>
+    </style>
+
+    <style name="TextAppearance.AppCompat.Widget.Base.ActionBar.Title.Inverse" parent="android:TextAppearance.Medium.Inverse">
+        <item name="android:textSize">@dimen/abc_action_bar_title_text_size</item>
+    </style>
+
+    <style name="TextAppearance.AppCompat.Widget.Base.ActionMode.Subtitle" parent="android:TextAppearance.Small">
+        <item name="android:textColor">?android:attr/textColorSecondary</item>
+    </style>
+
+    <style name="TextAppearance.AppCompat.Widget.Base.ActionMode.Subtitle.Inverse" parent="android:TextAppearance.Small.Inverse">
+        <item name="android:textColor">?android:attr/textColorSecondaryInverse</item>
+    </style>
+
+    <style name="TextAppearance.AppCompat.Widget.Base.ActionMode.Title" parent="android:TextAppearance.Medium" />
+
+    <style name="TextAppearance.AppCompat.Widget.Base.ActionMode.Title.Inverse" parent="android:TextAppearance.Medium.Inverse" />
+
+    <style name="TextAppearance.AppCompat.Widget.Base.DropDownItem" parent="android:TextAppearance.Small">
+        <item name="android:textColor">?android:attr/textColorPrimaryDisableOnly</item>
+    </style>
+
+    <style name="TextAppearance.AppCompat.Widget.DropDownItem" parent="TextAppearance.AppCompat.Widget.Base.DropDownItem" />
+
+    <style name="TextAppearance.AppCompat.Widget.PopupMenu.Large" parent="TextAppearance.AppCompat.Base.Widget.PopupMenu.Large" />
+
+    <style name="TextAppearance.AppCompat.Widget.PopupMenu.Small" parent="TextAppearance.AppCompat.Base.Widget.PopupMenu.Small" />
+
+    <style name="TextAppearance.Widget.AppCompat.Base.ExpandedMenu.Item" parent="android:TextAppearance.Medium">
+        <item name="android:textColor">?android:attr/textColorPrimaryDisableOnly</item>
+    </style>
+
+    <style name="TextAppearance.Widget.AppCompat.ExpandedMenu.Item" parent="TextAppearance.Widget.AppCompat.Base.ExpandedMenu.Item" />
+
+    <style name="Theme.AppCompat" parent="Theme.Base.AppCompat">
+        <item name="isLightTheme">false</item>
+
+        <!-- Required for use of support_simple_spinner_dropdown_item.xml -->
+        <item name="spinnerDropDownItemStyle">            @style/Widget.AppCompat.DropDownItem.Spinner</item>
+        <item name="dropdownListPreferredItemHeight">?attr/listPreferredItemHeightSmall</item>
+        <item name="searchResultListItemHeight">58dip</item>
+
+        <!-- Popup Menu styles -->
+        <item name="popupMenuStyle">@style/Widget.AppCompat.PopupMenu</item>
+        <item name="textAppearanceLargePopupMenu">            @style/TextAppearance.AppCompat.Widget.PopupMenu.Large</item>
+        <item name="textAppearanceSmallPopupMenu">            @style/TextAppearance.AppCompat.Widget.PopupMenu.Small</item>
+        <item name="listPopupWindowStyle">@style/Widget.AppCompat.ListPopupWindow</item>
+        <item name="dropDownListViewStyle">@style/Widget.AppCompat.ListView.DropDown</item>
+
+        <!-- SearchView attributes -->
+        <item name="searchDropdownBackground">@drawable/abc_search_dropdown_dark</item>
+        <item name="searchViewTextField">@drawable/abc_textfield_searchview_holo_dark</item>
+        <item name="searchViewTextFieldRight">@drawable/abc_textfield_searchview_right_holo_dark</item>
+        <item name="searchViewCloseIcon">@drawable/abc_ic_clear</item>
+        <item name="searchViewSearchIcon">@drawable/abc_ic_search</item>
+        <item name="searchViewGoIcon">@drawable/abc_ic_go</item>
+        <item name="searchViewVoiceIcon">@drawable/abc_ic_voice_search</item>
+        <item name="searchViewEditQuery">@drawable/abc_ic_commit_search_api_holo_dark</item>
+        <item name="searchViewEditQueryBackground">?attr/selectableItemBackground</item>
+        <item name="searchViewAutoCompleteTextView">            @style/Widget.AppCompat.AutoCompleteTextView</item>
+        <item name="textColorSearchUrl">@color/abc_search_url_text_holo</item>
+        <item name="textAppearanceSearchResultTitle">            @style/TextAppearance.AppCompat.SearchResult.Title</item>
+        <item name="textAppearanceSearchResultSubtitle">            @style/TextAppearance.AppCompat.SearchResult.Subtitle</item>
+        <item name="actionModeShareDrawable">@drawable/abc_ic_menu_share_holo_dark</item>
+
+        <!-- ShareActionProvider attributes -->
+        <item name="activityChooserViewStyle">@style/Widget.AppCompat.ActivityChooserView</item>
+    </style>
+
+    <style name="Theme.AppCompat.Base.CompactMenu" parent="">
+        <item name="android:itemTextAppearance">            @style/TextAppearance.Widget.AppCompat.ExpandedMenu.Item</item>
+        <item name="android:listViewStyle">@style/Widget.AppCompat.ListView.Menu</item>
+    </style>
+
+    <style name="Theme.AppCompat.Base.CompactMenu.Dialog" parent="">
+        <item name="android:itemTextAppearance">            @style/TextAppearance.AppCompat.Base.CompactMenu.Dialog</item>
+        <item name="android:listViewStyle">@android:style/Widget.ListView.Menu</item>
+    </style>
+
+    <style name="Theme.AppCompat.CompactMenu" parent="Theme.AppCompat.Base.CompactMenu" />
+
+    <style name="Theme.AppCompat.CompactMenu.Dialog" parent="Theme.AppCompat.Base.CompactMenu.Dialog" />
+
+    <style name="Theme.AppCompat.Light" parent="Theme.Base.AppCompat.Light">
+        <item name="isLightTheme">true</item>
+
+        <!-- Required for use of support_simple_spinner_dropdown_item.xml -->
+        <item name="spinnerDropDownItemStyle">            @style/Widget.AppCompat.Light.DropDownItem.Spinner</item>
+        <item name="dropdownListPreferredItemHeight">?attr/listPreferredItemHeightSmall</item>
+        <item name="searchResultListItemHeight">58dip</item>
+
+        <!-- Popup Menu styles -->
+        <item name="popupMenuStyle">@style/Widget.AppCompat.Light.PopupMenu</item>
+        <item name="textAppearanceLargePopupMenu">            @style/TextAppearance.AppCompat.Light.Widget.PopupMenu.Large</item>
+        <item name="textAppearanceSmallPopupMenu">            @style/TextAppearance.AppCompat.Light.Widget.PopupMenu.Small</item>
+        <item name="listPopupWindowStyle">@style/Widget.AppCompat.Light.ListPopupWindow</item>
+        <item name="dropDownListViewStyle">@style/Widget.AppCompat.Light.ListView.DropDown</item>
+
+        <!-- SearchView attributes -->
+        <item name="searchDropdownBackground">@drawable/abc_search_dropdown_light</item>
+        <item name="searchViewTextField">@drawable/abc_textfield_searchview_holo_light</item>
+        <item name="searchViewTextFieldRight">@drawable/abc_textfield_searchview_right_holo_light</item>
+        <item name="searchViewCloseIcon">@drawable/abc_ic_clear_holo_light</item>
+        <item name="searchViewSearchIcon">@drawable/abc_ic_search_api_holo_light</item>
+        <item name="searchViewGoIcon">@drawable/abc_ic_go_search_api_holo_light</item>
+        <item name="searchViewVoiceIcon">@drawable/abc_ic_voice_search_api_holo_light</item>
+        <item name="searchViewEditQuery">@drawable/abc_ic_commit_search_api_holo_light</item>
+        <item name="searchViewEditQueryBackground">?attr/selectableItemBackground</item>
+        <item name="searchViewAutoCompleteTextView">            @style/Widget.AppCompat.Light.AutoCompleteTextView</item>
+        <item name="textColorSearchUrl">@color/abc_search_url_text_holo</item>
+        <item name="textAppearanceSearchResultTitle">            @style/TextAppearance.AppCompat.Light.SearchResult.Title</item>
+        <item name="textAppearanceSearchResultSubtitle">            @style/TextAppearance.AppCompat.Light.SearchResult.Subtitle</item>
+        <item name="actionModeShareDrawable">@drawable/abc_ic_menu_share_holo_light</item>
+
+        <!-- ShareActionProvider attributes -->
+        <item name="activityChooserViewStyle">@style/Widget.AppCompat.Light.ActivityChooserView</item>
+    </style>
+
+    <style name="Theme.AppCompat.Light.DarkActionBar" parent="Theme.Base.AppCompat.Light.DarkActionBar">
+        <item name="isLightTheme">true</item>
+
+        <!-- Required for use of support_simple_spinner_dropdown_item.xml -->
+        <item name="spinnerDropDownItemStyle">            @style/Widget.AppCompat.Light.DropDownItem.Spinner</item>
+        <item name="dropdownListPreferredItemHeight">?attr/listPreferredItemHeightSmall</item>
+        <item name="searchResultListItemHeight">58dip</item>
+
+        <!-- Popup Menu styles -->
+        <item name="popupMenuStyle">@style/Widget.AppCompat.Light.PopupMenu</item>
+        <item name="textAppearanceLargePopupMenu">            @style/TextAppearance.AppCompat.Light.Widget.PopupMenu.Large</item>
+        <item name="textAppearanceSmallPopupMenu">            @style/TextAppearance.AppCompat.Light.Widget.PopupMenu.Small</item>
+        <item name="listPopupWindowStyle">@style/Widget.AppCompat.ListPopupWindow</item>
+        <item name="dropDownListViewStyle">@style/Widget.AppCompat.ListView.DropDown</item>
+
+        <!-- SearchView attributes -->
+        <item name="searchDropdownBackground">@drawable/abc_search_dropdown_dark</item>
+        <item name="searchViewTextField">@drawable/abc_textfield_searchview_holo_dark</item>
+        <item name="searchViewTextFieldRight">@drawable/abc_textfield_searchview_right_holo_dark</item>
+        <item name="searchViewCloseIcon">@drawable/abc_ic_clear</item>
+        <item name="searchViewSearchIcon">@drawable/abc_ic_search</item>
+        <item name="searchViewGoIcon">@drawable/abc_ic_go</item>
+        <item name="searchViewVoiceIcon">@drawable/abc_ic_voice_search</item>
+        <item name="searchViewEditQuery">@drawable/abc_ic_commit_search_api_holo_dark</item>
+        <item name="searchViewEditQueryBackground">?attr/selectableItemBackground</item>
+        <item name="searchViewAutoCompleteTextView">            @style/Widget.AppCompat.AutoCompleteTextView</item>
+        <item name="textColorSearchUrl">@color/abc_search_url_text_holo</item>
+        <item name="textAppearanceSearchResultTitle">            @style/TextAppearance.AppCompat.SearchResult.Title</item>
+        <item name="textAppearanceSearchResultSubtitle">            @style/TextAppearance.AppCompat.SearchResult.Subtitle</item>
+        <item name="actionModeShareDrawable">@drawable/abc_ic_menu_share_holo_dark</item>
+
+        <!-- ShareActionProvider attributes -->
+        <item name="activityChooserViewStyle">@style/Widget.AppCompat.ActivityChooserView</item>
+    </style>
+
+    <style name="Theme.Base" parent="android:Theme" />
+
+    <style name="Theme.Base.AppCompat" parent="Theme.Base">
+        <item name="windowActionBar">true</item>
+        <!-- Remove system title bars; we will add the action bar ourselves. -->
+        <item name="android:windowNoTitle">true</item>
+        <item name="buttonBarStyle">@android:style/ButtonBar</item>
+        <item name="buttonBarButtonStyle">@android:style/Widget.Button</item>
+        <item name="selectableItemBackground">@drawable/abc_item_background_holo_dark</item>
+        <item name="homeAsUpIndicator">@drawable/abc_ic_ab_back_holo_dark</item>
+        <item name="dividerVertical">@drawable/abc_list_divider_holo_dark</item>
+        <item name="dividerHorizontal">@drawable/abc_list_divider_holo_dark</item>
+        <item name="listPreferredItemHeight">?android:attr/listPreferredItemHeight</item>
+        <item name="listPreferredItemHeightSmall">48dp</item>
+        <item name="listPreferredItemHeightLarge">80dp</item>
+        <item name="listPreferredItemPaddingLeft">8dip</item>
+        <item name="listPreferredItemPaddingRight">8dip</item>
+        <item name="textAppearanceListItem">?android:attr/textAppearanceMedium</item>
+        <item name="textAppearanceListItemSmall">?android:attr/textAppearanceMedium</item>
+        <item name="actionBarTabStyle">@style/Widget.AppCompat.ActionBar.TabView</item>
+        <item name="actionBarTabBarStyle">@style/Widget.AppCompat.ActionBar.TabBar</item>
+        <item name="actionBarTabTextStyle">@style/Widget.AppCompat.ActionBar.TabText</item>
+        <item name="actionButtonStyle">@style/Widget.AppCompat.ActionButton</item>
+        <item name="actionOverflowButtonStyle">@style/Widget.AppCompat.ActionButton.Overflow</item>
+        <item name="actionBarStyle">@style/Widget.AppCompat.ActionBar</item>
+        <item name="actionBarSplitStyle">?attr/actionBarStyle</item>
+        <item name="actionBarWidgetTheme">@null</item>
+        <item name="actionBarSize">@dimen/abc_action_bar_default_height</item>
+        <item name="actionBarDivider">?attr/dividerVertical</item>
+        <item name="actionBarItemBackground">?attr/selectableItemBackground</item>
+        <item name="actionMenuTextAppearance">            @style/TextAppearance.AppCompat.Widget.ActionBar.Menu</item>
+        <item name="actionMenuTextColor">?android:attr/textColorPrimaryDisableOnly</item>
+
+        <!-- Dropdown Spinner Attributes -->
+        <item name="actionDropDownStyle">@style/Widget.AppCompat.Spinner.DropDown.ActionBar</item>
+
+        <!-- Action Mode -->
+        <item name="actionModeStyle">@style/Widget.AppCompat.ActionMode</item>
+        <item name="actionModeBackground">@drawable/abc_cab_background_top_holo_dark</item>
+        <item name="actionModeSplitBackground">@drawable/abc_cab_background_bottom_holo_dark</item>
+        <item name="actionModeCloseDrawable">@drawable/abc_ic_cab_done_holo_dark</item>
+        <item name="actionModeCloseButtonStyle">@style/Widget.AppCompat.ActionButton.CloseMode</item>
+
+        <!-- Panel attributes -->
+        <item name="panelMenuListWidth">@dimen/abc_panel_menu_list_width</item>
+        <item name="panelMenuListTheme">@style/Theme.AppCompat.CompactMenu</item>
+        <item name="android:panelBackground">@drawable/abc_menu_hardkey_panel_holo_dark</item>
+        <item name="listChoiceBackgroundIndicator">@drawable/abc_list_selector_holo_dark</item>
+    </style>
+
+    <style name="Theme.Base.AppCompat.Light" parent="Theme.Base.Light">
+        <item name="windowActionBar">true</item>
+        <!-- Remove system title bars; we will add the action bar ourselves. -->
+        <item name="android:windowNoTitle">true</item>
+        <item name="buttonBarStyle">@android:style/ButtonBar</item>
+        <item name="buttonBarButtonStyle">@android:style/Widget.Button</item>
+        <item name="selectableItemBackground">@drawable/abc_item_background_holo_light</item>
+        <item name="homeAsUpIndicator">@drawable/abc_ic_ab_back_holo_light</item>
+        <item name="dividerVertical">@drawable/abc_list_divider_holo_light</item>
+        <item name="dividerHorizontal">@drawable/abc_list_divider_holo_light</item>
+        <item name="listPreferredItemHeight">?android:attr/listPreferredItemHeight</item>
+        <item name="listPreferredItemHeightSmall">48dp</item>
+        <item name="listPreferredItemHeightLarge">80dp</item>
+        <item name="listPreferredItemPaddingLeft">8dip</item>
+        <item name="listPreferredItemPaddingRight">8dip</item>
+        <item name="textAppearanceListItem">?android:attr/textAppearanceMedium</item>
+        <item name="textAppearanceListItemSmall">?android:attr/textAppearanceMedium</item>
+
+        <!-- Action Bar Styles -->
+        <item name="actionBarTabStyle">@style/Widget.AppCompat.Light.ActionBar.TabView</item>
+        <item name="actionBarTabBarStyle">@style/Widget.AppCompat.Light.ActionBar.TabBar</item>
+        <item name="actionBarTabTextStyle">@style/Widget.AppCompat.Light.ActionBar.TabText</item>
+        <item name="actionButtonStyle">@style/Widget.AppCompat.Light.ActionButton</item>
+        <item name="actionOverflowButtonStyle">            @style/Widget.AppCompat.Light.ActionButton.Overflow</item>
+        <item name="actionBarStyle">@style/Widget.AppCompat.Light.ActionBar</item>
+        <item name="actionBarSplitStyle">?attr/actionBarStyle</item>
+        <item name="actionBarWidgetTheme">@null</item>
+        <item name="actionBarSize">@dimen/abc_action_bar_default_height</item>
+        <item name="actionBarDivider">?attr/dividerVertical</item>
+        <item name="actionBarItemBackground">?attr/selectableItemBackground</item>
+        <item name="actionMenuTextAppearance">            @style/TextAppearance.AppCompat.Widget.ActionBar.Menu</item>
+        <item name="actionMenuTextColor">?android:attr/textColorPrimaryDisableOnly</item>
+
+        <!-- Action Mode -->
+        <item name="actionModeStyle">@style/Widget.AppCompat.ActionMode</item>
+        <item name="actionModeBackground">@drawable/abc_cab_background_top_holo_light</item>
+        <item name="actionModeSplitBackground">@drawable/abc_cab_background_bottom_holo_light</item>
+        <item name="actionModeCloseDrawable">@drawable/abc_ic_cab_done_holo_light</item>
+        <item name="actionModeCloseButtonStyle">@style/Widget.AppCompat.Light.ActionButton.CloseMode</item>
+
+        <!-- Dropdown Spinner Attributes -->
+        <item name="actionDropDownStyle">            @style/Widget.AppCompat.Light.Spinner.DropDown.ActionBar</item>
+
+        <!-- Panel attributes -->
+        <item name="panelMenuListWidth">@dimen/abc_panel_menu_list_width</item>
+        <item name="panelMenuListTheme">@style/Theme.AppCompat.CompactMenu</item>
+        <item name="android:panelBackground">@drawable/abc_menu_hardkey_panel_holo_light</item>
+        <item name="listChoiceBackgroundIndicator">@drawable/abc_list_selector_holo_light</item>
+    </style>
+
+    <style name="Theme.Base.AppCompat.Light.DarkActionBar" parent="Theme.Base.AppCompat.Light">
+        <item name="homeAsUpIndicator">@drawable/abc_ic_ab_back_holo_dark</item>
+        <item name="actionOverflowButtonStyle">@style/Widget.AppCompat.ActionButton.Overflow</item>
+        <item name="actionBarStyle">@style/Widget.AppCompat.Light.ActionBar.Solid.Inverse</item>
+        <item name="actionBarWidgetTheme">@style/Theme.AppCompat</item>
+        <item name="actionBarDivider">@drawable/abc_list_divider_holo_dark</item>
+        <item name="actionBarItemBackground">@drawable/abc_item_background_holo_dark</item>
+        <item name="actionBarTabStyle">@style/Widget.AppCompat.Light.ActionBar.TabView.Inverse</item>
+        <item name="actionBarTabBarStyle">@style/Widget.AppCompat.Light.ActionBar.TabBar.Inverse</item>
+        <item name="actionBarTabTextStyle">@style/Widget.AppCompat.Light.ActionBar.TabText.Inverse</item>
+        <item name="actionMenuTextColor">?android:attr/textColorPrimaryInverseDisableOnly</item>
+
+        <!-- Action Mode -->
+        <item name="actionModeStyle">@style/Widget.AppCompat.Light.ActionMode.Inverse</item>
+        <item name="actionModeBackground">@drawable/abc_cab_background_top_holo_dark</item>
+        <item name="actionModeSplitBackground">@drawable/abc_cab_background_bottom_holo_dark</item>
+        <item name="actionModeCloseDrawable">@drawable/abc_ic_cab_done_holo_dark</item>
+        <item name="actionModeCloseButtonStyle">@style/Widget.AppCompat.ActionButton.CloseMode</item>
+
+        <!-- Dropdown Spinner Attributes -->
+        <item name="actionDropDownStyle">@style/Widget.AppCompat.Spinner.DropDown.ActionBar</item>
+
+        <!-- Panel attributes -->
+        <item name="android:panelBackground">@drawable/abc_menu_hardkey_panel_holo_dark</item>
+        <item name="listChoiceBackgroundIndicator">@drawable/abc_list_selector_holo_dark</item>
+    </style>
+
+    <style name="Theme.Base.Light" parent="android:Theme.Light" />
+
+    <style name="Widget.AppCompat.ActionBar" parent="Widget.AppCompat.Base.ActionBar" />
+
+    <style name="Widget.AppCompat.ActionBar.Solid" parent="Widget.AppCompat.Base.ActionBar.Solid" />
+
+    <style name="Widget.AppCompat.ActionBar.TabBar" parent="Widget.AppCompat.Base.ActionBar.TabBar" />
+
+    <style name="Widget.AppCompat.ActionBar.TabText" parent="Widget.AppCompat.Base.ActionBar.TabText" />
+
+    <style name="Widget.AppCompat.ActionBar.TabView" parent="Widget.AppCompat.Base.ActionBar.TabView" />
+
+    <style name="Widget.AppCompat.ActionButton" parent="Widget.AppCompat.Base.ActionButton" />
+
+    <style name="Widget.AppCompat.ActionButton.CloseMode" parent="Widget.AppCompat.Base.ActionButton.CloseMode" />
+
+    <style name="Widget.AppCompat.ActionButton.Overflow" parent="Widget.AppCompat.Base.ActionButton.Overflow" />
+
+    <style name="Widget.AppCompat.ActionMode" parent="Widget.AppCompat.Base.ActionMode" />
+
+    <style name="Widget.AppCompat.ActivityChooserView" parent="Widget.AppCompat.Base.ActivityChooserView" />
+
+    <style name="Widget.AppCompat.AutoCompleteTextView" parent="Widget.AppCompat.Base.AutoCompleteTextView" />
+
+    <style name="Widget.AppCompat.Base.ActionBar" parent="">
+        <item name="displayOptions">useLogo|showHome|showTitle</item>
+        <item name="divider">?attr/dividerVertical</item>
+        <item name="height">?attr/actionBarSize</item>
+        <item name="homeLayout">@layout/abc_action_bar_home</item>
+        <item name="titleTextStyle">@style/TextAppearance.AppCompat.Widget.ActionBar.Title</item>
+        <item name="subtitleTextStyle">@style/TextAppearance.AppCompat.Widget.ActionBar.Subtitle</item>
+        <item name="background">@drawable/abc_ab_transparent_dark_holo</item>
+        <item name="backgroundStacked">@drawable/abc_ab_stacked_transparent_dark_holo</item>
+        <item name="backgroundSplit">@drawable/abc_ab_bottom_transparent_dark_holo</item>
+        <item name="actionButtonStyle">@style/Widget.AppCompat.ActionButton</item>
+        <item name="actionOverflowButtonStyle">@style/Widget.AppCompat.ActionButton.Overflow</item>
+        <item name="progressBarStyle">@style/Widget.AppCompat.ProgressBar.Horizontal</item>
+        <item name="indeterminateProgressStyle">@style/Widget.AppCompat.ProgressBar</item>
+    </style>
+
+    <style name="Widget.AppCompat.Base.ActionBar.Solid" parent="Widget.AppCompat.Base.ActionBar">
+        <item name="background">@drawable/abc_ab_solid_dark_holo</item>
+        <item name="backgroundStacked">@drawable/abc_ab_stacked_solid_dark_holo</item>
+        <item name="backgroundSplit">@drawable/abc_ab_bottom_solid_dark_holo</item>
+    </style>
+
+    <style name="Widget.AppCompat.Base.ActionBar.TabBar" parent="">
+        <item name="divider">?attr/actionBarDivider</item>
+        <item name="showDividers">middle</item>
+        <item name="dividerPadding">12dip</item>
+    </style>
+
+    <style name="Widget.AppCompat.Base.ActionBar.TabText" parent="">
+        <item name="android:textAppearance">@null</item>
+        <item name="android:textColor">?android:attr/textColorPrimaryDisableOnly</item>
+        <item name="android:textSize">12sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:ellipsize">marquee</item>
+        <item name="android:maxLines">2</item>
+        <item name="textAllCaps">true</item>
+    </style>
+
+    <style name="Widget.AppCompat.Base.ActionBar.TabView" parent="">
+        <item name="android:background">@drawable/abc_tab_indicator_ab_holo</item>
+        <item name="android:gravity">center_horizontal</item>
+        <item name="android:paddingLeft">16dip</item>
+        <item name="android:paddingRight">16dip</item>
+        <item name="android:minWidth">80dip</item>
+    </style>
+
+    <style name="Widget.AppCompat.Base.ActionButton" parent="">
+        <item name="android:background">?attr/actionBarItemBackground</item>
+        <item name="android:paddingLeft">12dip</item>
+        <item name="android:paddingRight">12dip</item>
+        <item name="android:minWidth">@dimen/abc_action_button_min_width</item>
+        <item name="android:minHeight">?attr/actionBarSize</item>
+        <item name="android:gravity">center</item>
+        <item name="android:maxLines">2</item>
+        <item name="textAllCaps">@bool/abc_config_actionMenuItemAllCaps</item>
+    </style>
+
+    <style name="Widget.AppCompat.Base.ActionButton.CloseMode" parent="Widget.AppCompat.Base.ActionButton" />
+
+    <style name="Widget.AppCompat.Base.ActionButton.Overflow" parent="Widget.AppCompat.Base.ActionButton">
+        <item name="android:src">@drawable/abc_ic_menu_moreoverflow_normal_holo_dark</item>
+    </style>
+
+    <style name="Widget.AppCompat.Base.ActionMode" parent="">
+        <item name="background">?attr/actionModeBackground</item>
+        <item name="backgroundSplit">?attr/actionModeSplitBackground</item>
+        <item name="height">?attr/actionBarSize</item>
+        <item name="titleTextStyle">@style/TextAppearance.AppCompat.Widget.ActionMode.Title</item>
+        <item name="subtitleTextStyle">@style/TextAppearance.AppCompat.Widget.ActionMode.Subtitle</item>
+    </style>
+
+    <style name="Widget.AppCompat.Base.ActivityChooserView" parent="">
+        <item name="android:gravity">center</item>
+        <item name="android:background">@drawable/abc_ab_share_pack_holo_dark</item>
+        <item name="divider">?attr/dividerVertical</item>
+        <item name="showDividers">middle</item>
+        <item name="dividerPadding">6dip</item>
+    </style>
+
+    <style name="Widget.AppCompat.Base.AutoCompleteTextView" parent="android:Widget.AutoCompleteTextView">
+        <item name="android:textColor">?attr/actionMenuTextColor</item>
+        <item name="android:dropDownSelector">@drawable/abc_list_selector_holo_dark</item>
+        <item name="android:popupBackground">@drawable/abc_menu_dropdown_panel_holo_dark</item>
+    </style>
+
+    <style name="Widget.AppCompat.Base.DropDownItem.Spinner" parent="">
+        <item name="android:textAppearance">@style/TextAppearance.AppCompat.Widget.DropDownItem</item>
+        <item name="android:paddingLeft">8dp</item>
+        <item name="android:paddingRight">8dp</item>
+        <item name="android:gravity">center_vertical</item>
+    </style>
+
+    <style name="Widget.AppCompat.Base.ListPopupWindow" parent="">
+        <item name="android:dropDownSelector">@drawable/abc_list_selector_holo_dark</item>
+        <item name="android:popupBackground">@drawable/abc_menu_dropdown_panel_holo_dark</item>
+        <item name="android:dropDownVerticalOffset">0dip</item>
+        <item name="android:dropDownHorizontalOffset">0dip</item>
+        <item name="android:dropDownWidth">wrap_content</item>
+    </style>
+
+    <style name="Widget.AppCompat.Base.ListView.DropDown" parent="android:Widget.ListView">
+        <item name="android:listSelector">@drawable/abc_list_selector_holo_dark</item>
+    </style>
+
+    <style name="Widget.AppCompat.Base.ListView.Menu" parent="android:Widget.ListView.Menu">
+        <item name="android:listSelector">?attr/listChoiceBackgroundIndicator</item>
+        <item name="android:divider">?attr/dividerHorizontal</item>
+    </style>
+
+    <style name="Widget.AppCompat.Base.PopupMenu" parent="@style/Widget.AppCompat.Base.ListPopupWindow" />
+
+    <style name="Widget.AppCompat.Base.ProgressBar" parent="android:Widget.ProgressBar">
+        <item name="android:minWidth">@dimen/abc_action_bar_progress_bar_size</item>
+        <item name="android:maxWidth">@dimen/abc_action_bar_progress_bar_size</item>
+        <item name="android:minHeight">@dimen/abc_action_bar_progress_bar_size</item>
+        <item name="android:maxHeight">@dimen/abc_action_bar_progress_bar_size</item>
+    </style>
+
+    <style name="Widget.AppCompat.Base.ProgressBar.Horizontal" parent="android:Widget.ProgressBar.Horizontal" />
+
+    <style name="Widget.AppCompat.Base.Spinner" parent="">
+        <item name="spinnerMode">dropdown</item>
+        <item name="android:popupBackground">@drawable/abc_menu_dropdown_panel_holo_dark</item>
+        <item name="android:dropDownSelector">@drawable/abc_list_selector_holo_dark</item>
+        <item name="android:dropDownVerticalOffset">0dip</item>
+        <item name="android:dropDownHorizontalOffset">0dip</item>
+        <item name="android:dropDownWidth">wrap_content</item>
+        <item name="android:gravity">left|center_vertical</item>
+        <item name="android:clickable">true</item>
+        <item name="android:background">@drawable/abc_spinner_ab_holo_dark</item>
+    </style>
+
+    <style name="Widget.AppCompat.DropDownItem.Spinner" parent="Widget.AppCompat.Base.DropDownItem.Spinner" />
+
+    <style name="Widget.AppCompat.Light.ActionBar" parent="Widget.AppCompat.Light.Base.ActionBar" />
+
+    <style name="Widget.AppCompat.Light.ActionBar.Solid" parent="Widget.AppCompat.Light.Base.ActionBar.Solid" />
+
+    <style name="Widget.AppCompat.Light.ActionBar.Solid.Inverse" parent="Widget.AppCompat.Light.Base.ActionBar.Solid.Inverse" />
+
+    <style name="Widget.AppCompat.Light.ActionBar.TabBar" parent="Widget.AppCompat.Light.Base.ActionBar.TabBar" />
+
+    <style name="Widget.AppCompat.Light.ActionBar.TabBar.Inverse" parent="Widget.AppCompat.Light.Base.ActionBar.TabBar.Inverse" />
+
+    <style name="Widget.AppCompat.Light.ActionBar.TabText" parent="Widget.AppCompat.Light.Base.ActionBar.TabText" />
+
+    <style name="Widget.AppCompat.Light.ActionBar.TabText.Inverse" parent="Widget.AppCompat.Light.Base.ActionBar.TabText.Inverse" />
+
+    <style name="Widget.AppCompat.Light.ActionBar.TabView" parent="Widget.AppCompat.Light.Base.ActionBar.TabView" />
+
+    <style name="Widget.AppCompat.Light.ActionBar.TabView.Inverse" parent="Widget.AppCompat.Light.Base.ActionBar.TabView.Inverse" />
+
+    <style name="Widget.AppCompat.Light.ActionButton" parent="Widget.AppCompat.Light.Base.ActionButton" />
+
+    <style name="Widget.AppCompat.Light.ActionButton.CloseMode" parent="Widget.AppCompat.Light.Base.ActionButton.CloseMode" />
+
+    <style name="Widget.AppCompat.Light.ActionButton.Overflow" parent="Widget.AppCompat.Light.Base.ActionButton.Overflow" />
+
+    <style name="Widget.AppCompat.Light.ActionMode.Inverse" parent="Widget.AppCompat.Light.Base.ActionMode.Inverse" />
+
+    <style name="Widget.AppCompat.Light.ActivityChooserView" parent="Widget.AppCompat.Light.Base.ActivityChooserView" />
+
+    <style name="Widget.AppCompat.Light.AutoCompleteTextView" parent="Widget.AppCompat.Light.Base.AutoCompleteTextView" />
+
+    <style name="Widget.AppCompat.Light.Base.ActionBar" parent="Widget.AppCompat.Base.ActionBar">
+        <item name="background">@drawable/abc_ab_transparent_light_holo</item>
+        <item name="backgroundStacked">@drawable/abc_ab_stacked_transparent_light_holo</item>
+        <item name="backgroundSplit">@drawable/abc_ab_bottom_transparent_light_holo</item>
+        <item name="actionButtonStyle">@style/Widget.AppCompat.Light.ActionButton</item>
+        <item name="actionOverflowButtonStyle">@style/Widget.AppCompat.Light.ActionButton.Overflow</item>
+        <item name="progressBarStyle">@style/Widget.AppCompat.ProgressBar.Horizontal</item>
+        <item name="indeterminateProgressStyle">@style/Widget.AppCompat.ProgressBar</item>
+    </style>
+
+    <style name="Widget.AppCompat.Light.Base.ActionBar.Solid" parent="Widget.AppCompat.Light.Base.ActionBar">
+        <item name="background">@drawable/abc_ab_solid_light_holo</item>
+        <item name="backgroundStacked">@drawable/abc_ab_stacked_solid_light_holo</item>
+        <item name="backgroundSplit">@drawable/abc_ab_bottom_solid_light_holo</item>
+    </style>
+
+    <style name="Widget.AppCompat.Light.Base.ActionBar.Solid.Inverse" parent="Widget.AppCompat.Base.ActionBar.Solid">
+        <item name="titleTextStyle">            @style/TextAppearance.AppCompat.Widget.ActionBar.Title.Inverse</item>
+        <item name="subtitleTextStyle">            @style/TextAppearance.AppCompat.Widget.ActionBar.Subtitle.Inverse</item>
+        <item name="actionButtonStyle">@style/Widget.AppCompat.ActionButton</item>
+        <item name="actionOverflowButtonStyle">@style/Widget.AppCompat.ActionButton.Overflow</item>
+    </style>
+
+    <style name="Widget.AppCompat.Light.Base.ActionBar.TabBar" parent="Widget.AppCompat.Base.ActionBar.TabBar" />
+
+    <style name="Widget.AppCompat.Light.Base.ActionBar.TabBar.Inverse" parent="Widget.AppCompat.Light.Base.ActionBar.TabBar" />
+
+    <style name="Widget.AppCompat.Light.Base.ActionBar.TabText" parent="Widget.AppCompat.Base.ActionBar.TabText" />
+
+    <style name="Widget.AppCompat.Light.Base.ActionBar.TabText.Inverse" parent="Widget.AppCompat.Light.Base.ActionBar.TabText">
+        <item name="android:textColor">?android:attr/textColorPrimaryInverseDisableOnly</item>
+    </style>
+
+    <style name="Widget.AppCompat.Light.Base.ActionBar.TabView" parent="Widget.AppCompat.Base.ActionBar.TabView" />
+
+    <style name="Widget.AppCompat.Light.Base.ActionBar.TabView.Inverse" parent="Widget.AppCompat.Light.Base.ActionBar.TabView" />
+
+    <style name="Widget.AppCompat.Light.Base.ActionButton" parent="Widget.AppCompat.Base.ActionButton" />
+
+    <style name="Widget.AppCompat.Light.Base.ActionButton.CloseMode" parent="Widget.AppCompat.Light.Base.ActionButton" />
+
+    <style name="Widget.AppCompat.Light.Base.ActionButton.Overflow" parent="Widget.AppCompat.Light.Base.ActionButton">
+        <item name="android:src">@drawable/abc_ic_menu_moreoverflow_normal_holo_light</item>
+    </style>
+
+    <style name="Widget.AppCompat.Light.Base.ActionMode.Inverse" parent="Widget.AppCompat.Base.ActionMode">
+        <item name="titleTextStyle">            @style/TextAppearance.AppCompat.Widget.ActionMode.Title.Inverse</item>
+        <item name="subtitleTextStyle">            @style/TextAppearance.AppCompat.Widget.ActionMode.Subtitle.Inverse</item>
+    </style>
+
+    <style name="Widget.AppCompat.Light.Base.ActivityChooserView" parent="Widget.AppCompat.Base.ActivityChooserView">
+        <item name="android:background">@drawable/abc_ab_share_pack_holo_light</item>
+    </style>
+
+    <style name="Widget.AppCompat.Light.Base.AutoCompleteTextView" parent="android:Widget.AutoCompleteTextView">
+        <item name="android:textColor">?attr/actionMenuTextColor</item>
+        <item name="android:dropDownSelector">@drawable/abc_list_selector_holo_light</item>
+        <item name="android:popupBackground">@drawable/abc_menu_dropdown_panel_holo_light</item>
+    </style>
+
+    <style name="Widget.AppCompat.Light.Base.DropDownItem.Spinner" parent="Widget.AppCompat.Base.DropDownItem.Spinner" />
+
+    <style name="Widget.AppCompat.Light.Base.ListPopupWindow" parent="">
+        <item name="android:dropDownSelector">@drawable/abc_list_selector_holo_light</item>
+        <item name="android:popupBackground">@drawable/abc_menu_dropdown_panel_holo_light</item>
+        <item name="android:dropDownVerticalOffset">0dip</item>
+        <item name="android:dropDownHorizontalOffset">0dip</item>
+        <item name="android:dropDownWidth">wrap_content</item>
+    </style>
+
+    <style name="Widget.AppCompat.Light.Base.ListView.DropDown" parent="android:Widget.ListView">
+        <item name="android:listSelector">@drawable/abc_list_selector_holo_light</item>
+    </style>
+
+    <style name="Widget.AppCompat.Light.Base.PopupMenu" parent="@style/Widget.AppCompat.Light.Base.ListPopupWindow" />
+
+    <style name="Widget.AppCompat.Light.Base.Spinner" parent="Widget.AppCompat.Base.Spinner">
+        <item name="android:dropDownSelector">@drawable/abc_list_selector_holo_light</item>
+        <item name="android:popupBackground">@drawable/abc_menu_dropdown_panel_holo_light</item>
+        <item name="android:background">@drawable/abc_spinner_ab_holo_light</item>
+    </style>
+
+    <style name="Widget.AppCompat.Light.DropDownItem.Spinner" parent="Widget.AppCompat.Light.Base.DropDownItem.Spinner" />
+
+    <style name="Widget.AppCompat.Light.ListPopupWindow" parent="Widget.AppCompat.Light.Base.ListPopupWindow" />
+
+    <style name="Widget.AppCompat.Light.ListView.DropDown" parent="Widget.AppCompat.Light.Base.ListView.DropDown" />
+
+    <style name="Widget.AppCompat.Light.PopupMenu" parent="Widget.AppCompat.Light.Base.PopupMenu" />
+
+    <style name="Widget.AppCompat.Light.Spinner.DropDown.ActionBar" parent="Widget.AppCompat.Light.Base.Spinner" />
+
+    <style name="Widget.AppCompat.ListPopupWindow" parent="Widget.AppCompat.Base.ListPopupWindow" />
+
+    <style name="Widget.AppCompat.ListView.DropDown" parent="Widget.AppCompat.Base.ListView.DropDown" />
+
+    <style name="Widget.AppCompat.ListView.Menu" parent="Widget.AppCompat.Base.ListView.Menu" />
+
+    <style name="Widget.AppCompat.PopupMenu" parent="Widget.AppCompat.Base.PopupMenu" />
+
+    <style name="Widget.AppCompat.ProgressBar" parent="Widget.AppCompat.Base.ProgressBar" />
+
+    <style name="Widget.AppCompat.ProgressBar.Horizontal" parent="Widget.AppCompat.Base.ProgressBar.Horizontal" />
+
+    <style name="Widget.AppCompat.Spinner.DropDown.ActionBar" parent="Widget.AppCompat.Base.Spinner" />
+
+</resources>

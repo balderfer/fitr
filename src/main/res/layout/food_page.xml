@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout 
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" >
+
+    <!-- Pretty hint text, and maxLines -->
+
+    <Space
+        android:layout_width="match_parent"
+        android:layout_height="64dp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="Enter today's meals"
+        android:textSize="42dp"
+        android:id="@+id/title"
+        android:layout_marginLeft="100dp" />
+
+    <TextView
+        android:id="@+id/total"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:layout_marginLeft="100dp" />
+
+    <EditText android:id="@+id/search" 
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:hint="search"
+        android:inputType="text"
+        android:maxLines="1"
+        android:layout_marginLeft="100dp"
+        android:layout_marginRight="100dp" />
+
+    <!-- Set height to 0, and let the weight param expand it -->
+    <!-- Note the use of the default ID! This lets us use a 
+         ListActivity still! -->
+    <ListView android:id="@android:id/list"
+        android:layout_width="fill_parent"
+        android:layout_height="0dip"
+        android:layout_weight="1"
+        android:layout_marginLeft="100dp"
+        android:layout_marginRight="100dp" />
+
+    <Space
+        android:layout_width="match_parent"
+        android:layout_height="40dp" />
+
+    <ImageButton
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/imageButton"
+        android:layout_gravity="center_horizontal"
+        android:src="@drawable/nextbutton"
+        android:onClick="navigate1"
+        android:background="#ecf0f1"
+        android:paddingBottom="20dp" />
+
+
+</LinearLayout>
